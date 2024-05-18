@@ -1,0 +1,1878 @@
+{
+  "companiesData": [
+    {
+      "name": "Fiber AI",
+      "url": "https://www.ycombinator.com/companies/fiber-ai",
+      "founders": [
+        {
+          "name": "Adi Agashe",
+          "linkedIn": "https://linkedin.com/in/adityaagashe",
+          "about": "Adi Agashe (CEO) is the 3-time global bestselling author of \"Swipe to Unlock,\" \"Bubble or Revolution?\", and \"PM's Sacred Seven\" which have been translated into 11 languages. He built a profitable 7-figure e-commerce business, and spent 5 years as a Product Manager at Microsoft growing Azure hybrid revenue. He graduated from Cornell University, where he studied computer science and was a Rawlings scholar (top 1.5%)."
+        },
+        {
+          "name": "Neel Mehta",
+          "linkedIn": "https://linkedin.com/in/neel-a-mehta",
+          "about": "Neel is the CTO at Fiber AI and a former APM (later PM) at Google. He is also the three-time bestselling author of \"Swipe to Unlock,\" \"Bubble or Revolution?\", and \"Product Management's Sacred Seven;\" he then built a profitable 7-figure e-commerce business. Neel graduated in the top 5% of his class at Harvard University, where he studied computer science and was a John Harvard Scholar."
+        }
+      ],
+      "foundedYear": "2023",
+      "teamSize": "5",
+      "location": "San Francisco",
+      "description": "Fiber AI is a reimagined, AI-powered Marketo for enterprises. Customers choose us because we automatically find prospects, research them, and hyper-personalize outbound messages that get 80% open rates, which is 4x the industry standard.Adi Agashe (CEO) is the 3-time global bestselling author of \"Swipe to Unlock,\" \"Bubble or Revolution?\", and \"PM's Sacred Seven\" which have been translated into 11 languages. He built a profitable 7-figure e-commerce business, and spent 5 years as a Product Manager at Microsoft growing Azure hybrid revenue. He graduated from Cornell University, where he studied computer science and was a Rawlings scholar (top 1.5%).Neel is the CTO at Fiber AI and a former APM (later PM) at Google. He is also the three-time bestselling author of \"Swipe to Unlock,\" \"Bubble or Revolution?\", and \"Product Management's Sacred Seven;\" he then built a profitable 7-figure e-commerce business. Neel graduated in the top 5% of his class at Harvard University, where he studied computer science and was a John Harvard Scholar.",
+      "latestNews": [
+        {
+          "title": "Meet The 30 Under 30 Marketing & Advertising Class Of 2024—From AI Startups To A Chief TikTok Officer",
+          "link": "https://www.forbes.com/sites/emmylucas/2023/11/28/meet-the-30-under-30-marketing--advertising-class-of-2024-from-ai-startups-to-a-chief-tiktok-officer/",
+          "date": "Nov 23, 2023"
+        }
+      ],
+      "imageURL": "https://bookface-images.s3.amazonaws.com/small_logos/e7118ffc006ccecf44fec5c8d5c5268024216181.png",
+      "posts": {
+        "lauchLink": "https://www.ycombinator.com/companies/launches/J3W-fiber-ai-drive-revenue-growth-faster-with-ai-powered-marketing-automations",
+        "postsList": [
+          {
+            "title": "🏆 TL;DR:",
+            "links": ["https://fiber.ai/"],
+            "details": [
+              "Fiber AI is a reimagined, AI-powered Marketo for enterprises. Our marketing automations platform enables enterprises to drive revenue growth faster.",
+              "As successful 7-figure e-commerce entrepreneurs, we manually hacked together marketing automations across several point solutions to scale our last business. In contrast, when we worked at Microsoft and Google, not a single employee touched Marketo directly—instead, each organization hired different vendors that each paid for Marketo and configured it.",
+              "Every enterprise hits an inflection point when they’re forced to migrate to Marketo. Witnessing this firsthand, we’re uniquely positioned to build a platform that automates marketing for enterprises and scales with them as they become enterprises."
+            ]
+          },
+          {
+            "title": "💯 The Team",
+            "imageLinks": [
+              "https://www.ycombinator.com/companies/media/?type=post&id=73254&key=user_uploads/1005029/bae03e85-3df1-4990-8dc0-94044395e598"
+            ],
+            "details": [
+              "",
+              "Adi Agashe (CEO) and Neel Mehta (CTO) are the 3-time global bestselling authors of \"Swipe to Unlock,\" \"Bubble or Revolution?\", and \"PM's Sacred Seven\" which have been translated into 11 languages. They have worked together for the last 6.5 years and built a profitable 7-figure e-commerce business.",
+              "Adi spent 5 years as a growth Product Manager at Microsoft, scaling Azure hybrid revenue. He graduated from Cornell University, where he studied computer science and was a Rawlings scholar (top 1.5%).",
+              "Neel was an APM (later PM) at Google, working on Google Search. He graduated in the top 5% of his class at Harvard University, where he studied computer science and was a John Harvard Scholar."
+            ],
+            "links": [
+              "https://www.linkedin.com/in/adityaagashe/",
+              "https://www.linkedin.com/in/neel-a-mehta/",
+              "https://www.amazon.com/Swipe-Unlock-Technology-Business-Strategy/dp/1976182190",
+              "https://www.amazon.com/Blockchain-Bubble-Revolution-Present-Cryptocurrencies-ebook/dp/B07T13GP1Q/",
+              "https://www.amazon.com/Product-Managements-Sacred-Seven-World-Class/dp/0578740583/"
+            ]
+          },
+          {
+            "title": "❌ The Problem",
+            "details": [
+              "Most businesses’ deliverability rates are horrible. There are 40+ common pitfalls that land your emails in spam. Founders are not aware of these hazards, which are often technical in nature, and commit blunders that affect their domain and email health long-term.",
+              "",
+              "Finding relevant prospects is tedious and constantly changing. When building a lead list, you have to manually gather data from several data sources and figure out triggers to prune this list so that your offer is relevant. Generating quality leads is extremely time-consuming and eats up 40% of a SDR’s time. What’s even more frustrating is that by the time you reach out, your offer may not be relevant anymore since the window of opportunity is often short.",
+              "Writing personalized emails is a massive bottleneck. Researching each lead and writing highly personalized emails that are going to get opened requires 10 to 20 minutes per email on average. This is not scalable, which is why many businesses blast generic templates, which have horrible open and response rates."
+            ],
+            "imageLinks": [
+              "https://www.ycombinator.com/companies/media/?type=post&id=73254&key=user_uploads/1005029/45cec696-826a-4361-822f-1346e748ddcd"
+            ]
+          },
+          {
+            "title": "🌟 Our Solution",
+            "details": [
+              "Fiber AI manages domain and email health to get 80% open rates. We automatically configure your DNS records, warm-up your emails, orchestrate emails to send optimally across all of your accounts, run multi-layer email bounce detection, and modify each outgoing email to ensure it doesn’t set off spam filters.",
+              "We automate lead generation with dynamic audiences. We pull in data from 50+ data providers, including BuiltWith, Crunchbase, LinkedIn, Alexa, and more, so that you can segment your audience precisely by the companies you care about and exclude everyone else. Our audiences are dynamic, which means we will continuously look for prospects matching your targeting and add them to your audience to run our automated marketing sequences. Create an audience once, and put your outreach on autopilot.",
+              "",
+              "AI-powered hyper-personalized emails to boost response rates. The biggest debate in sales is choosing between relevancy and personalization—now you don’t have to. We search far and wide to find the “golden nugget” of information to connect with your prospect, and then use GPT-4 to write hyper-personalized email sequences to dramatically increase response rates.",
+              ""
+            ],
+            "imageLinks": [
+              "https://www.ycombinator.com/companies/media/?type=post&id=73254&key=user_uploads/1005029/41bb740f-e065-447d-8088-f2e9bc19802b",
+              "https://www.ycombinator.com/companies/media/?type=post&id=73254&key=user_uploads/1005029/f9bddae2-962d-4cae-8980-cba49bf55c25"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "Untether Labs",
+      "url": "https://www.ycombinator.com/companies/untether-labs",
+      "founders": [
+        {
+          "name": "Aditya Sharma",
+          "linkedIn": "https://linkedin.com/in/sharmaed",
+          "about": "ex-Uber, ex-Headspace Health (ex-Ginger), repeat founder, Waterloo Engineer"
+        }
+      ],
+      "foundedYear": "2022",
+      "teamSize": "3",
+      "location": "",
+      "description": "Digital Clinics are facing an existential problem - fix margins, or die. We’ve built a clinic, and seen the tech they need to fix their margins. Now we’re bringing this tech back to other clinics. For our first customer, we’re projected to generate $2.5M in revenue.ex-Uber, ex-Headspace Health (ex-Ginger), repeat founder, Waterloo Engineer",
+      "jobs": [
+        {
+          "role": "Founding Engineer",
+          "link": "https://www.ycombinator.com/companies/companies/untether-labs/jobs/wq4vhSG-founding-engineer",
+          "locations": ["Toronto", " ON", " CA"]
+        },
+        {
+          "role": "Founding Engineer",
+          "link": "https://www.ycombinator.com/companies/companies/untether-labs/jobs/zSidtzG-founding-engineer",
+          "locations": ["San Francisco", " CA", " US"]
+        },
+        {
+          "role": "Account Executive",
+          "link": "https://www.ycombinator.com/companies/companies/untether-labs/jobs/tkOiJae-account-executive",
+          "locations": [
+            "Remote (San Francisco",
+            " CA",
+            " US; Toronto",
+            " ON",
+            " CA)"
+          ]
+        }
+      ],
+      "latestNews": [],
+      "imageURL": "https://bookface-images.s3.amazonaws.com/small_logos/89a118853f7ef1ffaf38dcc3929f98219859af74.png",
+      "posts": {
+        "lauchLink": "https://www.ycombinator.com/companies/launches/IF6-untether-labs-smart-scheduling-for-digital-clinics",
+        "postsList": [
+          {
+            "links": [
+              "https://linkedin.com/in/lucasdellabella",
+              "https://linkedin.com/in/sharmaed",
+              "https://untetherlabs.com/"
+            ],
+            "details": [
+              "Hey YC, this is @Lucas and @Aditya from @UntetherLabs launching!",
+              "TL;DR Clinics are facing an existential problem - fix margins to survive. We’ve built a digital clinic, and seen the tech they need to improve margins. Now we’re bringing this tech back to other clinics. For our first customer, we’re projected to generate $2.5M in revenue.",
+              "",
+              "",
+              "Doctors (MDs, nurses, therapists) spend less than 50% of their day seeing patients. Yet you, as a patient, can’t get an appointment 4+ weeks out. Why? … archaic software.",
+              "Care models for digital clinics have evolved. Care happens over calls, texts, at-home, in-person and over state lines covering insurance requirements. Scheduling the supply of doctors with the fluctuating patient demand is too complex for billion-dollar clinics to be coordinating out of spreadsheets. So while demand for healthcare has grown rapidly, margins are poor."
+            ],
+            "imageLinks": [
+              "https://www.ycombinator.com/companies/media/?type=post&id=70128&key=user_uploads/1154826/9d15bcd0-1c04-4706-9da3-35cfdc68bd84",
+              "https://www.ycombinator.com/companies/media/?type=post&id=70128&key=user_uploads/1154826/d963c99c-02d2-4450-a2ae-1c089cdfc873"
+            ],
+            "title": "🤯 PROBLEM · MARGIN"
+          },
+          {
+            "title": "💡 SOLUTION · SAAS",
+            "details": [
+              "We help clinics improve margins through an all-in-one tool that offers better scheduling, reporting, and forecasting.",
+              "Scheduling to optimize doctors and appointments across specialties, regions, and insurance regulations:",
+              "",
+              "Reporting. One dashboard to track margin, patient demand, and doctor utilization.",
+              "",
+              "Forecasting to help Clinics prepare for fluctuating demand, and scenarios.",
+              ""
+            ],
+            "imageLinks": [
+              "https://www.ycombinator.com/companies/media/?type=post&id=70128&key=user_uploads/1154826/bb5c456b-6bd3-450f-97ef-22ec6b18dd3d",
+              "https://www.ycombinator.com/companies/media/?type=post&id=70128&key=user_uploads/1154826/82445723-5549-4b51-96be-4fe4e323fc7c",
+              "https://www.ycombinator.com/companieshttps://lh4.googleusercontent.com/zfBFMN1CovypldaZeRp2f-cQNnU5gntRFNhDA1ER14FlGtY7BaxdhyLRjGnOAJ5AhOPocejaKtfGdFcFFV4bxVGVyOyhMmTkKi_W4JGC-l3CbtvbfFbS68MBjtLaDbCGc5Pn7XR9YT-R1kJ2dA9NXR0"
+            ]
+          },
+          {
+            "title": "👥 TEAM · FOUNDER-MARKET FIT",
+            "links": [
+              "https://linkedin.com/in/sharmaed",
+              "http://linkedin.com/in/lucasdellabella"
+            ],
+            "details": [
+              "@Aditya is ex-Uber, ex-Headspace Health, Waterloo eng, and repeat founder.",
+              "Aditya started a clinic at Ginger and scaled it from 0 to 100 therapists. Ginger merged with Headspace for $3B to become Headspace Health.",
+              "@Lucas is ex-Apple and ex-Yelp, Georgia Tech eng.",
+              "Lucas grew up around his dad’s mental health practice, watching him provide care for kids with autism, and those struggling with depression, anxiety, and schizophrenia."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "Reddit",
+      "url": "https://www.ycombinator.com/companies/reddit",
+      "founders": [
+        {
+          "name": "Steve Huffman",
+          "linkedIn": "https://www.linkedin.com/in/chriscampbell12"
+        }
+      ],
+      "foundedYear": "",
+      "teamSize": "2000",
+      "location": "San Francisco",
+      "description": "Founded by Steve Huffman and Alexis Ohanian in 2005, Reddit is an online community where users submit, vote, and comment on content, news, and discussions. Nicknamed \"the front page of the internet,\"​ Reddit is one of the top ten sites in the United States (source: Alexa), with hundreds of millions of users each month on desktop, mobile web, and our official Android/iOS apps. \r\n\r\nInterested in joining our growing team? Check out about.reddit.com/careers",
+      "latestNews": [
+        {
+          "title": "Reddit’s I.P.O. Is a Content Moderation Success Story - The New York Times",
+          "link": "https://www.nytimes.com/2024/03/21/technology/reddit-ipo-public-content-moderation.html",
+          "date": "Mar 21, 2024"
+        }
+      ],
+      "imageURL": "https://bookface-images.s3.amazonaws.com/small_logos/2f5bed7ab9abb66ee8ccbf622c27a9d741c3c4e4.png",
+      "posts": { "lauchLink": "https://www.ycombinator.com/companiesundefined" }
+    },
+    {
+      "name": "Flair Health",
+      "url": "https://www.ycombinator.com/companies/flair-health",
+      "founders": [
+        {
+          "name": "Diva Sharma",
+          "linkedIn": "https://linkedin.com/in/diva-sharma",
+          "about": "Diva is co-founder and CEO of Flair. She built and patented a remote patient monitoring device at age 15, which was recognized by the Government of India, European Union and the Intel Foundation. She was formerly an Associate Product Manager at two digital health companies: Ancestry.com and Auris Health (Johnson & Johnson) and built software for Stanford Medicine in conjunction with Apple’s Healthkit team. Diva graduated with a Bachelors in Computer Science from Stanford University."
+        },
+        {
+          "name": "Shobha Dasari",
+          "linkedIn": "https://linkedin.com/in/shobha-dasari",
+          "about": "Shobha is a co-founder and CTO of Flair. She is the author of “Hacking Healthcare,” which discusses how tech can improve the healthcare user experience for patients. Shobha has worked directly with the founders at two health tech companies: Rupa Health (a labs portal for integrative medicine) and Songbird Therapy (at-home behavioral therapy for children with autism). Before Flair, Shobha was an Associate Product Manager intern at LinkedIn and graduated from Stanford (Computer Science)."
+        }
+      ],
+      "foundedYear": "2023",
+      "teamSize": "2",
+      "location": "San Francisco",
+      "description": "Flair Health is building the platform for doctors to set up their own independent practices to deliver ultra-personalized, whole-person care to treat the core drivers of chronic conditions, such as diabetes and heart disease. Our software provides doctors with data-driven insights about a patient’s health and facilitates operations like patient acquisition and billing.Diva is co-founder and CEO of Flair. She built and patented a remote patient monitoring device at age 15, which was recognized by the Government of India, European Union and the Intel Foundation. She was formerly an Associate Product Manager at two digital health companies: Ancestry.com and Auris Health (Johnson & Johnson) and built software for Stanford Medicine in conjunction with Apple’s Healthkit team. Diva graduated with a Bachelors in Computer Science from Stanford University.Shobha is a co-founder and CTO of Flair. She is the author of “Hacking Healthcare,” which discusses how tech can improve the healthcare user experience for patients. Shobha has worked directly with the founders at two health tech companies: Rupa Health (a labs portal for integrative medicine) and Songbird Therapy (at-home behavioral therapy for children with autism). Before Flair, Shobha was an Associate Product Manager intern at LinkedIn and graduated from Stanford (Computer Science).",
+      "latestNews": [],
+      "imageURL": "https://bookface-images.s3.amazonaws.com/small_logos/48282aa61f2203958955e7297f595a6fc48a2288.png",
+      "posts": {
+        "lauchLink": "https://www.ycombinator.com/companies/launches/J73-flair-health-tackling-chronic-disease-by-unlocking-personal-lifestyle-data",
+        "postsList": [
+          {
+            "title": "TLDR",
+            "details": [
+              "Flair is building the platform for clinicians to leverage patient lifestyle data to treat the core drivers of chronic disease, such as diabetes and heart disease, through personalized interventions. Our software analyzes hundreds of lifestyle data points not traditionally analyzed in a primary care visit and creates structured recommendations uniquely suited for a patient.",
+              "Our goal is simple: to help 100 million Americans reverse their chronic disease through personalized care."
+            ]
+          },
+          {
+            "title": "The Problem",
+            "links": [
+              "https://www.bluecrossvt.org/health-community/news/lifestyle-medicine-focus-blue-cross-and-blue-shield-vermont",
+              "https://lifestylemedicine.org/articles/an-advocate-for-lifestyle-medicine/"
+            ],
+            "details": [
+              "80% of chronic conditions can be prevented with improvements in lifestyle, but the average 20-minute primary care visit is unable to adequately analyze and address these health behaviors. As a result, patients become reliant on medications to imperfectly manage their symptoms, leading to poorer health outcomes and high costs.",
+              "Lifestyle medicine is growing rapidly (17-fold increase in certified doctors since 2014), yet clinicians lack the right tools to quantitatively unlock insights into a patient’s diet, sleep, stress, and exercise, making it difficult to scale this form of medical practice."
+            ]
+          },
+          {
+            "title": "The Solution",
+            "details": [
+              "Flair’s software enables lifestyle medicine clinicians to analyze hundreds of specific data points about a patient’s health (such as gut microbiome, stress responses, and vitamin/mineral levels) to create ultra-personalized health plans.",
+              "We reach patients through self-insured employers, some of whom have projected 20% less healthcare spending from including lifestyle medicine in their health plans."
+            ],
+            "links": [
+              "https://www.benefitnews.com/advisers/news/why-more-healthcare-plans-prioritize-chiropractic-acupuncture-and-holistic-health"
+            ]
+          },
+          {
+            "title": "Team",
+            "links": [
+              "https://www.linkedin.com/in/diva-sharma/",
+              "https://www.linkedin.com/in/shobha-dasari/",
+              "https://www.amazon.com/Hacking-Healthcare-Designing-Human-Centered-Technology-ebook/dp/B0948PCMW8/ref=sr_1_1?crid=1G0DSGW8H82DW&keywords=Shobha+Dasari&qid=1690142292&sprefix=shobha+dasa%2Caps%2C433&sr=8-1"
+            ],
+            "details": [
+              "Before Flair, @Diva Sharma built and patented an internationally-recognized remote patient monitoring device at age 15 and worked as an Associate Product Manager at digital health startups like Ancestry and Auris Health (acquired by Johnson & Johnson). @Shobha Dasari led product and operations at LinkedIn and early-stage digital health startups, and authored a book titled Hacking Healthcare.",
+              "We met as undergraduates at Stanford, and found ourselves geeking out about precision medicine and preventative care. Our personal experiences with chronic disease and health tracking encouraged us to build Flair."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "VaultPay",
+      "url": "https://www.ycombinator.com/companies/vaultpay",
+      "founders": [
+        {
+          "name": "Ntambwa Basambombo",
+          "linkedIn": "https://linkedin.com/in/ntambwa-basambombo-1371b952"
+        },
+        {
+          "name": "Christel Ilaka",
+          "linkedIn": "https://www.linkedin.com/in/christelilaka/"
+        }
+      ],
+      "foundedYear": "2023",
+      "teamSize": "2",
+      "location": "Kinshasa, Congo (Dem. Rep.)",
+      "description": "VaultPay is a platform enabling financial institutions to transform local businesses into bank agents. Imagine a grocery store in a remote African mining region. Instead of miners traveling far to a bank to get their salary, with VaultPay, they can access their earnings and shop at the same store, boosting convenience for customers and cutting costs for banks.",
+      "latestNews": [],
+      "imageURL": "https://bookface-images.s3.amazonaws.com/small_logos/a57948d960506de4d2db61aa15be3edc4b84ada1.png",
+      "posts": { "lauchLink": "https://www.ycombinator.com/companiesundefined" }
+    },
+    {
+      "name": "VectorShift",
+      "url": "https://www.ycombinator.com/companies/vectorshift",
+      "founders": [
+        {
+          "name": "Alexander Leonardi",
+          "linkedIn": "https://linkedin.com/in/alexanderleonardi",
+          "about": "CEO at VectorShift. Previously Private Equity Data Science Analyst at Blackstone, where he evaluated private equity transactions, deployed AI/ML solutions for portfolio companies, and helped establish Blackstone's perspectives and capabilities surrounding Generative AI. AB/SM in Statistics & Computer Science from Harvard. Grew the Harvard College Consulting Group >200% YoY to >$1m annual revenue as CEO."
+        },
+        {
+          "name": "Albert Mao",
+          "linkedIn": "https://linkedin.com/in/albert-mao-8b263aa2",
+          "about": "COO at VectorShift. Former Tech GTM / product consultant at McKinsey. Studied Statistics at Harvard '21. Grew the Harvard College Consulting Group >200% Y/Y to >$1M Revenue as the CRO."
+        }
+      ],
+      "foundedYear": "2023",
+      "teamSize": "6",
+      "location": "",
+      "description": "VectorShift is an AI automations platform. Teams leverage AI through VectorShift’s no-code or SDK interfaces to search through knowledge bases, generate documents, and deploy chatbots and assistants.\r\n\r\nThe no-code platform gives end-users an interface to access pre-built workflows for end use cases (e.g., responding to RFPs, writing proposals, writing account plans) while letting them customize and build new ones with drag and drop components. \r\n\r\nCEO at VectorShift. Previously Private Equity Data Science Analyst at Blackstone, where he evaluated private equity transactions, deployed AI/ML solutions for portfolio companies, and helped establish Blackstone's perspectives and capabilities surrounding Generative AI. AB/SM in Statistics & Computer Science from Harvard. Grew the Harvard College Consulting Group >200% YoY to >$1m annual revenue as CEO.COO at VectorShift. Former Tech GTM / product consultant at McKinsey. Studied Statistics at Harvard '21. Grew the Harvard College Consulting Group >200% Y/Y to >$1M Revenue as the CRO.",
+      "latestNews": [
+        {
+          "title": "Exclusive: VectorShift raises $3M to modularize LLM application development | VentureBeat",
+          "link": "https://venturebeat.com/ai/exclusive-vectorshift-raises-3m-to-modularize-llm-application-development/",
+          "date": "Feb 21, 2024"
+        }
+      ],
+      "imageURL": "https://bookface-images.s3.amazonaws.com/small_logos/5a28987b3e1b3effc2a33ce770fc25f4424fc775.png",
+      "posts": {
+        "lauchLink": "https://www.ycombinator.com/companies/launches/KuV-vectorshift-no-code-generative-ai-platform"
+      }
+    },
+    {
+      "name": "Amplitude",
+      "url": "https://www.ycombinator.com/companies/amplitude",
+      "founders": [
+        {
+          "name": "Spenser Skates",
+          "linkedIn": "https://www.linkedin.com/in/spenserskates"
+        },
+        {
+          "name": "Curtis Liu",
+          "linkedIn": "https://www.linkedin.com/in/jerry-klingenberger-15027791"
+        }
+      ],
+      "foundedYear": "2012",
+      "teamSize": "750",
+      "location": "San Francisco",
+      "description": "Since graduating from YC, Amplitude (W12) has made it to IPO and beyond by helping cutting edge startups become category leaders. We’ve pioneered the digital analytics category to become the go-to solution for AI pioneers (Cruise, Midjourney), apps that touch millions of consumers (Doordash, Coinbase), and the best in B2B (Atlassian, Rippling, Canva).  \r\n\r\nWith product analytics, experiment, CDP, session replay, and more, Amplitude’s digital analytics platform shows you what your users love, where they’re getting stuck, and what keeps them coming back. You want to build a generational business, and we have the capabilities and pricing plans to guide you every step of the way. Check out our special deal for YC companies and get started on your analytics journey.",
+      "latestNews": [
+        {
+          "title": "Amplitude CEO: building the machine for the journey to a billion dollars",
+          "link": "https://www.thetechnologyletter.com/the-posts/amplitude-ceo-building-the-machine-for-the-journey-to-a-billion-dollars",
+          "date": "Dec 13, 2022"
+        }
+      ],
+      "imageURL": "https://bookface-images.s3.amazonaws.com/small_logos/fa98c8a53255b3fd2e9d4a65dbb47eec293729f1.png",
+      "posts": { "lauchLink": "https://www.ycombinator.com/companiesundefined" }
+    },
+    {
+      "name": "Razorpay",
+      "url": "https://www.ycombinator.com/companies/razorpay",
+      "founders": [
+        {
+          "name": "Harshil Mathur",
+          "linkedIn": "https://www.linkedin.com/pub/harshil-mathur/69/23a/127"
+        },
+        {
+          "name": "Shashank Kumar",
+          "linkedIn": "http://www.linkedin.com/in/kumarshashank"
+        }
+      ],
+      "foundedYear": "2014",
+      "teamSize": "2700",
+      "location": "Bengaluru, India",
+      "description": "The journey of building Razorpay started in 2014, when Harshil Mathur (CEO & Co-Founder) and Shashank Kumar (MD & Co-Founder) witnessed the dismal state of the online payments industry in India then and understood that they have a larger and more important issue to solve. And That was democratizing online payments for Indian businesses, particularly the underserved market, Startups and SMEs. Over the last 9 years, Razorpay has evolved from a single-product company to a multi-product company, from an online payment gateway to India’s only full-stack financial solutions company, offering payments and banking solutions to businesses.  Razorpay today is transforming age-old complexities and changing every known paradigm of money movement for disruptive businesses.\r\n\r\nOver the last couple of years, Razorpay’s growth has evolved to be an index of India’s digital economy. From a kirana shop in Kashmir collecting payments on our POS device to a textile exporter in Kanyakumari accepting dollars through our International Payments product, Razorpay has revolutionised how businesses have traditionally transacted and interacted with money. \r\n\r\nRazorpay became the first and only Indian fintech to build a full-stack international Payment Gateway ‘Curlec by Razorpay’ and evolved into a comprehensive provider of payment solutions, leveraging the synergy between cutting-edge technological capabilities and a profound understanding of the local payment ecosystem. The introduction of the new Curlec Payment Gateway aims to cater to a wide spectrum of businesses, expanding its reach to over 5,000 establishments. \r\n\r\nBe it for international expansion or solving for Indian businesses, for Razorpay, the customer has always been at the core of all disruption, from addressing evolving needs to delivering new solutions. This hyperfocus helped bring Razorpay’s several industry-first innovations into the market since 2014. Razorpay became the first to launch a completely digital on-boarding process for startups, first to launch support for UPI, first to launch support for Bharath QR, first to introduce recurring payments for businesses through Razorpay Route, automating payment receipts and later automate payouts and making the entire process seamless and optimized and many more were introduced aling the way. Other firsts include: - First to launch India’s Multi-Network Tokenisation solution, TokenHQ - Razorpay became India’s first payment gateway to support credit cards on UPI - Razorpay also became India’s largest omnichannel payment gateway for businesses post acquiring Ezetap which is India’s leading offline POS company that was founded with the aim to simplify the in-person offline payments experience.\r\n\r\nOver the years, Razorpay’s valuation has jumped from $1 billion to $7.5 billion and has added a host of marquee investors to its captable. Razorpay is also the second Indian company to be a part of Silicon Valley’s largest tech accelerator, Y Combinator. Marquee investors such as Lone Pine Capital, Alkeon Capital, TCV, GIC, Tiger Global, Sequoia Capital India, Ribbit Capital, Matrix Partners, Salesforce Ventures, Y Combinator, and MasterCard have invested a total of $741.5 Mn through Series A, B, C, D, E and F funding. The last financing round of Series F led the company’s valuation to $7.5 Billion signaling one of the fastest increases in valuation for an Indian Unicorn. \r\n\r\nRazorpay has also made acquisitions with like-minded companies over the last 9 years. In total, till date, Razorpay has made eight acquisitions, Billme in 2023 - A Digital invoice and customer Engagement, Ezetap in 2022 - India’s leading offline POS company, PoshVine in 2022 - India’s leading loyalty and reward management platform, IZealiant in 2022 - A mobile-first, API-enabled, and cloud-ready payment solution and made its first international foray in South-East Asia by announcing its acquisition of Curlec in 2022 - A recurring payments platform. TeraFin Labs in 2021 - the AI-based SaaS platform that facilitates digital financing solutions, Opfin (Now RazorpayX Payroll) in 2019 -  The payroll management solution and Thirdwatch in 2019, the first acquisition - The AI-powered fraud detection platform.\r\n\r\nAll these efforts are being done in collaboration with banks, regulators, and stakeholders so that India can build a better place for small and big businesses. Today, Razorpay powers online payments for 76 Of 100 startup unicorns and millions of businesses in India. The core premise of what Razorpay was founded in 2014 and what it is today hasn’t changed. It is to make money movement simpler and easier, whether it is for businesses to receive money, send money, or manage money.",
+      "jobs": [
+        {
+          "role": "Engineering Manager/Sr. Engineering Manager.",
+          "link": "https://www.ycombinator.com/companies/companies/razorpay/jobs/M8jAxrNeJ-engineering-manager-sr-engineering-manager",
+          "locations": ["Bangalore", " Karnataka"]
+        },
+        {
+          "role": "Senior / Principal Engineers",
+          "link": "https://www.ycombinator.com/companies/companies/razorpay/jobs/GQiEGb6ug-senior-principal-engineers",
+          "locations": ["bangalore"]
+        },
+        {
+          "role": "Senior Infrastructure Engineer",
+          "link": "https://www.ycombinator.com/companies/companies/razorpay/jobs/zUemCTA1N-senior-infrastructure-engineer",
+          "locations": ["Bengaluru"]
+        },
+        {
+          "role": "Senior/Principal Engineer/Manager, Frontend Engineering",
+          "link": "https://www.ycombinator.com/companies/companies/razorpay/jobs/Xpdifpfmk-senior-principal-engineer-manager-frontend-engineering",
+          "locations": ["Bangalore", " Karnataka"]
+        }
+      ],
+      "latestNews": [
+        {
+          "title": "et startup of the year razorpay: ET Startup Awards 2022: Razorpay wins Startup of the Year award - The Economic Times",
+          "link": "https://economictimes.indiatimes.com/tech/startups/et-startup-awards-2022-razorpay-wins-startup-of-the-year-award/articleshow/95185680.cms",
+          "date": "Nov 07, 2022"
+        }
+      ],
+      "imageURL": "https://bookface-images.s3.amazonaws.com/small_logos/b6a6aaf9a84fa4b7ddb53cabda7443c142a5a154.png",
+      "posts": { "lauchLink": "https://www.ycombinator.com/companiesundefined" }
+    },
+    {
+      "name": "Nanograb",
+      "url": "https://www.ycombinator.com/companies/nanograb",
+      "founders": [
+        {
+          "name": "Debesh Mandal",
+          "linkedIn": "https://linkedin.com/in/debeshmandal",
+          "about": "Co-founder and CEO of Nanograb. PhD in Computational Biophysics from Imperial College London. Experienced in molecular simulations and building software for scientists. First software hire at Fabricnano"
+        },
+        {
+          "name": "Christopher Lau",
+          "linkedIn": "https://linkedin.com/in/christopher-lau-542798151",
+          "about": "Co-founder of Nanograb. M.Eng Biomaterials and Tissue Engineering at Imperial College London. Biomedical engineering experience developing biosensors using aptamers, and a drug delivery device for hypertension management."
+        },
+        {
+          "name": "Shanil Panara",
+          "linkedIn": "https://linkedin.com/in/shanilpanara",
+          "about": "Cofounder and in silico lead at Nanograb; Imperial College PhD (dropout); \n\nFascinated by all things compute and physics... all in the name of figuring out real life things!\n\nOtherwise, I love singing and music in general. Fun fact: I was in an a cappella group for 5 years :)"
+        }
+      ],
+      "foundedYear": "2023",
+      "teamSize": "3",
+      "location": "San Francisco",
+      "description": "Nanograb is a computational drug discovery company that uses AI to generate the best combination of binders to treat different diseases. Our product allows drugs to be targeted to very specific areas of the body.Co-founder and CEO of Nanograb. PhD in Computational Biophysics from Imperial College London. Experienced in molecular simulations and building software for scientists. First software hire at FabricnanoCo-founder of Nanograb. M.Eng Biomaterials and Tissue Engineering at Imperial College London. Biomedical engineering experience developing biosensors using aptamers, and a drug delivery device for hypertension management.Cofounder and in silico lead at Nanograb; Imperial College PhD (dropout); \n\nFascinated by all things compute and physics... all in the name of figuring out real life things!\n\nOtherwise, I love singing and music in general. Fun fact: I was in an a cappella group for 5 years :)",
+      "latestNews": [],
+      "imageURL": "https://bookface-images.s3.amazonaws.com/small_logos/3af7e37b601f838987b93fc518f5b9ac0763dea5.png",
+      "posts": {
+        "lauchLink": "https://www.ycombinator.com/companies/launches/J8U-nanograb-multivalent-nanoparticles-for-next-generation-targeted-drugs",
+        "postsList": [
+          {
+            "title": "💊 70% of drugs fail in clinical trials because of poor targeting",
+            "details": [
+              "These drugs need lower dosages due to their side effects. Targeting would minimise these side effects and mean that a smaller, more effective dose could be given to a patient. But there are no existing platforms for creating drugs that will target exactly where they need to be in the body.",
+              "For example in cancer, when scientists try to create targeted drugs, they use molecules like antibodies that attach to the cancerous cell at a single site on a single receptor. Since these cancerous cells have the same receptors as healthy cells, both types are killed by toxic payloads!",
+              ""
+            ],
+            "imageLinks": [
+              "https://www.ycombinator.com/companies/media/?type=post&id=73562&key=user_uploads/983241/0e15bd9d-4ee0-419f-a114-8311a2bc4fa1"
+            ]
+          },
+          {
+            "title": "🎯 Our product allows drugs to be targeted to very specific areas of the body",
+            "details": [
+              "We generate the best combination of binders using AI and a multivalent physics engine. We will do what no other technology is able to do:",
+              "Nanograb’s vision is to transform the therapeutic landscape across the entire healthcare spectrum. Nanograb will be creating new therapies on-demand with next-generation targeting whether it’s infinitely mutating cancers, incurable neurodegenerative diseases or Disease X",
+              "Our scalable platform has proof of concept data in vitro and in vivo and our goal is to scale these methods to dozens of different applications.",
+              ""
+            ],
+            "links": [
+              "https://www.nature.com/articles/s41586-023-05729-x",
+              "https://en.wikipedia.org/wiki/Neurodegenerative_disease",
+              "https://en.wikipedia.org/wiki/Disease_X"
+            ],
+            "imageLinks": [
+              "https://www.ycombinator.com/companies/media/?type=post&id=73562&key=user_uploads/983241/9bd664c7-6e5f-4bb5-8ccc-bc6a89f951f3"
+            ]
+          },
+          {
+            "title": "🧠 Our founding team are experts in the field",
+            "imageLinks": [
+              "https://www.ycombinator.com/companies/media/?type=post&id=73562&key=user_uploads/983241/3faaa3cd-9ab7-47c1-8a7b-5fe4792cfa53"
+            ],
+            "details": [""]
+          }
+        ]
+      }
+    },
+    {
+      "name": "Langdock",
+      "url": "https://www.ycombinator.com/companies/langdock",
+      "founders": [
+        {
+          "name": "Lennard Schmidt",
+          "linkedIn": "https://linkedin.com/in/lennardschmidt",
+          "about": "I started building a software agency with one of my best friends while studying at university. We built tech platforms for startups and scraped data for PEs/VCs. Most recently, I worked as CFO for the university where I studied. Before that, I worked in a Biz Ops role for a startup and spent some time in a few European cities for them."
+        },
+        {
+          "name": "Jonas Beisswenger",
+          "linkedIn": "https://linkedin.com/in/jonasbeisswenger",
+          "about": "Before Langdock, I built http://wized.com as a solo founder and sold it to Finsweet, one of the largest companies in the Webflow ecosystem. Wized is used by thousands of agencies and freelancers worldwide to make a living and build web applications. I was nominated as \"Developer of the Year 2023\" by Webflow for my ecosystem contribution with Wized."
+        },
+        {
+          "name": "Tobias Kemkes",
+          "linkedIn": "https://linkedin.com/in/tobiaskemkes",
+          "about": "Before Langdock, I was the founding engineer at Blair (YC S19) and built an end-to-end automated servicing platform to manage their $100M debt facility. The platform was audited, handled sensitive data, and moved millions of dollars around. I later became Blair's first head of product, managing a team of five engineers."
+        }
+      ],
+      "foundedYear": "2023",
+      "teamSize": "7",
+      "location": "",
+      "description": "We are building the one-stop AI platform for scale-ups and enterprises. Model agnostic and fully GDPR compliant.I started building a software agency with one of my best friends while studying at university. We built tech platforms for startups and scraped data for PEs/VCs. Most recently, I worked as CFO for the university where I studied. Before that, I worked in a Biz Ops role for a startup and spent some time in a few European cities for them. Before Langdock, I built http://wized.com as a solo founder and sold it to Finsweet, one of the largest companies in the Webflow ecosystem. Wized is used by thousands of agencies and freelancers worldwide to make a living and build web applications. I was nominated as \"Developer of the Year 2023\" by Webflow for my ecosystem contribution with Wized.Before Langdock, I was the founding engineer at Blair (YC S19) and built an end-to-end automated servicing platform to manage their $100M debt facility. The platform was audited, handled sensitive data, and moved millions of dollars around. I later became Blair's first head of product, managing a team of five engineers.",
+      "jobs": [
+        {
+          "role": "Full Stack Engineer",
+          "link": "https://www.ycombinator.com/companies/companies/langdock/jobs/XpLVfES-full-stack-engineer",
+          "locations": ["Berlin", " BE", " DE"]
+        }
+      ],
+      "latestNews": [
+        {
+          "title": "Langdock raises $3M with General Catalyst to help companies avoid vendor lock-in with LLMs | TechCrunch",
+          "link": "https://techcrunch.com/2024/04/19/langdock/amp/",
+          "date": "Apr 19, 2024"
+        }
+      ],
+      "imageURL": "https://bookface-images.s3.amazonaws.com/small_logos/4e063b7ada76ee00d8d1f58e28edb637bbe07f45.png",
+      "posts": {
+        "lauchLink": "https://www.ycombinator.com/companies/launches/J6O-langdock-the-gdpr-compliant-chatgpt-for-your-team"
+      }
+    },
+    {
+      "name": "Pylon",
+      "url": "https://www.ycombinator.com/companies/pylon-2",
+      "founders": [
+        {
+          "name": "Advith Chelikani",
+          "linkedIn": "https://www.linkedin.com/in/advith/",
+          "about": "usepylon.com"
+        },
+        {
+          "name": "Marty Kausas",
+          "linkedIn": "https://www.linkedin.com/in/martykausas",
+          "about": "building @usepylon"
+        },
+        {
+          "name": "Robert Eng",
+          "linkedIn": "https://www.linkedin.com/in/robert-eng/",
+          "about": ""
+        }
+      ],
+      "foundedYear": "2022",
+      "teamSize": "7",
+      "location": "San Francisco",
+      "description": "Pylon is a modern alternative to Zendesk. Pylon helps B2B companies manage their customers across the different places they talk to them - shared Slack channels, Microsoft Teams, email, in-app chat, Slack communities, and more.\r\n\r\nHundreds of fast-growing YC companies of all sizes like Mintlify, Hightouch, and Deel use Pylon to track customer conversations across slack/teams/email/in-app/community, resolve customer issues quickly, and keep customers engaged.\r\n\r\nPylon replaces tools like Zendesk/Intercom for modern companies.\r\n\r\nLearn more: https://www.usepylon.com\r\n\r\n\r\n-------\r\nExamples of specific capabilities include:\r\n- Unify customer conversations across Slack, Microsoft Teams, In-App Chat, Email, and Community.\r\n- Triage open issues, set SLAs, prioritize questions based on customer tier or other CRM data, connect questions with engineering work in Linear/Jira/Github, and measure metrics like response time and resolution rate.\r\n- Broadcast product updates, upcoming events, or outages to 100s of channels at once and get live link click, reaction, and reply data.usepylon.combuilding @usepylon",
+      "jobs": [
+        {
+          "role": "Senior Software Engineer",
+          "link": "https://www.ycombinator.com/companies/companies/pylon-2/jobs/JI8K5Du-senior-software-engineer",
+          "locations": ["San Francisco", " CA", " US"]
+        }
+      ],
+      "latestNews": [
+        {
+          "title": "Pylon wants to make it easier to manage B2B conversations in Slack | TechCrunch",
+          "link": "https://techcrunch.com/2023/07/11/pylon-wants-to-make-it-easier-to-manage-b2b-conversations-in-slack/",
+          "date": "Jul 11, 2023"
+        }
+      ],
+      "imageURL": "https://bookface-images.s3.amazonaws.com/small_logos/412a6b3ef532664df77532bc5d7ae3c1233de965.png",
+      "posts": { "lauchLink": "https://www.ycombinator.com/companiesundefined" }
+    },
+    {
+      "name": "Supabase",
+      "url": "https://www.ycombinator.com/companies/supabase",
+      "founders": [
+        {
+          "name": "Paul Copplestone",
+          "linkedIn": "https://www.linkedin.com/in/paulcopplestone/",
+          "about": "CEO, Supabase."
+        },
+        {
+          "name": "Ant Wilson",
+          "linkedIn": "https://www.linkedin.com/in/anthony-wilson-46179937/",
+          "about": "CTO @ Supabase (YC S20)"
+        }
+      ],
+      "foundedYear": "2020",
+      "teamSize": "70",
+      "location": "Singapore",
+      "description": "Supabase is the easiest way to get started with Postgres. \r\n\r\nEach project within Supabase is an isolated Postgres cluster, allowing customers to scale independently, while still providing the features that you need to build: instant database setup, auth, row level security, realtime data streams, auto-generating APIs, and a simple to use web interface.\r\n\r\nWe are 100% remote.\r\n\r\nCEO, Supabase.\nCTO @ Supabase (YC S20)",
+      "jobs": [
+        {
+          "role": "Customer Solution Architect",
+          "link": "https://www.ycombinator.com/companies/companies/supabase/jobs/xwZofaM-customer-solution-architect",
+          "locations": ["Remote (US)"]
+        }
+      ],
+      "latestNews": [
+        {
+          "title": "Supabase raises $80M Series B for its open source Firebase alternative – TechCrunch",
+          "link": "https://techcrunch.com/2022/05/10/supabase-raises-80m-series-b-for-its-open-source-firebase-alternative/",
+          "date": "May 10, 2022"
+        }
+      ],
+      "imageURL": "https://bookface-images.s3.amazonaws.com/small_logos/9e8c106f46123a6f28b7a7da41f0ee695da48786.png",
+      "posts": { "lauchLink": "https://www.ycombinator.com/companiesundefined" }
+    },
+    {
+      "name": "RescueTime",
+      "url": "https://www.ycombinator.com/companies/rescuetime",
+      "founders": [
+        {
+          "name": "Brian Fioca",
+          "linkedIn": "https://www.linkedin.com/in/brianfioca/",
+          "about": "I've been a product engineer for over 20 years, working across all platforms: web, mobile, and desktop; and across many languages, including: Java, PHP, Ruby, C++, Swift, Javascript, and more. \n\nI've worked with more than 10 startups and founded 5, including RescueTime, which went through Y Combinator in 2008. I also helped start Madrona Venture Labs, the incubation arm of investment firm Madrona Venture Group."
+        },
+        {
+          "name": "Tony Wright",
+          "linkedIn": "https://www.linkedin.com/in/webwright",
+          "about": "Product/Design/Growth.  Founded RescueTime (YC08!).  Founded Glowforge (largest 30 day crowdfunding in history, 9-figure revenue and-- most important to me-- a product that is beloved by its users).\n\nLargely retired right now other than advising a bit here and there, though I'd come out of retirement for an opportunity whose mission was something beyond \"this is a timely market opportunity and we're all going to get rich!\"."
+        }
+      ],
+      "foundedYear": "2007",
+      "teamSize": "15",
+      "location": "Seattle, WA",
+      "description": "RescueTime helps you set boundaries, protect focused work time, and achieve work/life balance by shedding light on how you spend your time, improving your focus, and helping you find more time for the things that matter most.\r\n\r\nWe are a distributed company with members spread throughout the United States.I've been a product engineer for over 20 years, working across all platforms: web, mobile, and desktop; and across many languages, including: Java, PHP, Ruby, C++, Swift, Javascript, and more. \n\nI've worked with more than 10 startups and founded 5, including RescueTime, which went through Y Combinator in 2008. I also helped start Madrona Venture Labs, the incubation arm of investment firm Madrona Venture Group. Product/Design/Growth.  Founded RescueTime (YC08!).  Founded Glowforge (largest 30 day crowdfunding in history, 9-figure revenue and-- most important to me-- a product that is beloved by its users).\n\nLargely retired right now other than advising a bit here and there, though I'd come out of retirement for an opportunity whose mission was something beyond \"this is a timely market opportunity and we're all going to get rich!\".",
+      "latestNews": [],
+      "imageURL": "https://bookface-images.s3.amazonaws.com/small_logos/97db687a20a6a52c0ebb297a3f580779b4fb69ce.png",
+      "posts": { "lauchLink": "https://www.ycombinator.com/companiesundefined" }
+    },
+    {
+      "name": "Lingt",
+      "url": "https://www.ycombinator.com/companies/lingt",
+      "founders": [{ "name": "Justin Cannon" }],
+      "foundedYear": "",
+      "teamSize": "2",
+      "location": "San Francisco",
+      "description": "Lingt empowers teachers to speak more with their students. Create and manage online speaking assignments for use in the classroom.",
+      "latestNews": [],
+      "posts": { "lauchLink": "https://www.ycombinator.com/companiesundefined" }
+    },
+    {
+      "name": "Dill",
+      "url": "https://www.ycombinator.com/companies/dill",
+      "founders": [
+        {
+          "name": "Catherine Jiang",
+          "linkedIn": "https://www.linkedin.com/in/catherinehuijiang",
+          "about": "Second-time founder digitizing payments for the construction industry"
+        }
+      ],
+      "foundedYear": "2022",
+      "teamSize": "",
+      "location": "",
+      "description": "Dill is a digital payments & workflow automation tool for contractors & construction suppliersSecond-time founder digitizing payments for the construction industry",
+      "latestNews": [
+        {
+          "title": "Dili wants to automate due diligence with AI | TechCrunch",
+          "link": "https://techcrunch.com/2024/02/19/dili-wants-to-automate-due-diligence-with-ai/",
+          "date": "Feb 19, 2024"
+        }
+      ],
+      "imageURL": "https://bookface-images.s3.amazonaws.com/small_logos/6354365dd8a078eedfebf117d50c6ac01a2401b6.png",
+      "posts": {
+        "lauchLink": "https://www.ycombinator.com/companies/launches/I86-dill-faster-payments-in-foodservice-distribution"
+      }
+    },
+    {
+      "name": "Echodio",
+      "url": "https://www.ycombinator.com/companies/echodio",
+      "founders": [
+        {
+          "name": "Niall Smart",
+          "linkedIn": "https://linkedin.com/in/niallsmart",
+          "about": "Founder @ Echodio (W2017)"
+        },
+        {
+          "name": "Cormac Driver",
+          "linkedIn": "https://www.linkedin.com/in/cormacdriver",
+          "about": ""
+        },
+        {
+          "name": "Vincent Glennon",
+          "linkedIn": "https://ie.linkedin.com/in/vinnyglennon",
+          "about": ""
+        }
+      ],
+      "foundedYear": "",
+      "teamSize": "2",
+      "location": "San Francisco",
+      "description": "Echodio is the easiest way to sync your music library across players, keep your valuable collection safe, and stream to your media center.Founder @ Echodio (W2017)",
+      "latestNews": [],
+      "imageURL": "https://bookface-images.s3.amazonaws.com/small_logos/511e33e373ba8cbed610998321772565bd2ea6b2.png",
+      "posts": { "lauchLink": "https://www.ycombinator.com/companiesundefined" }
+    },
+    {
+      "name": "Slash",
+      "url": "https://www.ycombinator.com/companies/slash",
+      "founders": [
+        {
+          "name": "Victor Cardenas",
+          "linkedIn": "https://www.linkedin.com/in/victor-d-cardenas/",
+          "about": "Co-founder @ Slash"
+        },
+        {
+          "name": "Kevin Bai",
+          "linkedIn": "https://www.linkedin.com/in/kevinbai0",
+          "about": "Co-founder @Slash"
+        }
+      ],
+      "foundedYear": "2020",
+      "teamSize": "20",
+      "location": "San Francisco",
+      "description": "Slash lets anyone over the age of 13 create a business bank account without an LLC in less than 10 minutes. \r\n\r\nOur mission is to eliminate all the friction involved with starting and running business, and empower the next generation of entrepreneurs to build their own future in the process. \r\n\r\nStill in beta, thousands of young entrepreneurs that have side hustles reselling, flipping NFTs, and running e-commerce sites use Slash's tools to run their businesses.\r\n\r\nSlash is backed by NEA, Menlo Ventures, Stanford University, the founders of Tinder and Plaid, and other amazing angels and funds.Co-founder @ Slash Co-founder @Slash",
+      "jobs": [
+        {
+          "role": "Software Engineer, Infrastructure",
+          "link": "https://www.ycombinator.com/companies/companies/slash/jobs/hDckjrG-software-engineer-infrastructure",
+          "locations": ["San Francisco"]
+        },
+        {
+          "role": "Software Engineer",
+          "link": "https://www.ycombinator.com/companies/companies/slash/jobs/WBqXVlc-software-engineer",
+          "locations": ["San Francisco"]
+        }
+      ],
+      "latestNews": [
+        {
+          "title": "Slash aims to corner the Gen Z market with business-focused banking features | TechCrunch",
+          "link": "https://techcrunch.com/2023/05/04/slash-aims-to-corner-the-gen-z-market-with-business-focused-banking-features/",
+          "date": "May 04, 2023"
+        }
+      ],
+      "imageURL": "https://bookface-images.s3.amazonaws.com/small_logos/a16a09957704451334262d0e10e575dc15ff06d1.png",
+      "posts": { "lauchLink": "https://www.ycombinator.com/companiesundefined" }
+    },
+    {
+      "name": "YumDots",
+      "url": "https://www.ycombinator.com/companies/yumdots",
+      "founders": [
+        {
+          "name": "Mark Rosetta",
+          "linkedIn": "https://linkedin.com/in/mark-rosetta-484071267"
+        }
+      ],
+      "foundedYear": "",
+      "teamSize": "2",
+      "location": "San Francisco",
+      "description": "YumDots wants to be the go-to mobile application for finding places to eat when out on the town. Its emphasis on using interactive maps to display information about local restaurants makes it more efficient than other mobile review services like Yelp's. The service is launching soon.",
+      "latestNews": [],
+      "posts": { "lauchLink": "https://www.ycombinator.com/companiesundefined" }
+    },
+    {
+      "name": "Airbnb",
+      "url": "https://www.ycombinator.com/companies/airbnb",
+      "founders": [
+        {
+          "name": "Brian Chesky",
+          "linkedIn": "https://www.linkedin.com/in/brianchesky/",
+          "about": "Brian Chesky is the co-founder,  Head of Community, and  CEO of Airbnb, which he started with Joe Gebbia and Nathan Blecharczyk in 2008. Brian sets the company’s strategy to connect people to unique travel experiences, and drives Airbnb’s mission to create a world where anyone can belong anywhere. Originally from New York, Brian graduated from the Rhode Island School of Design where he received a Bachelor of Fine Arts in Industrial Design."
+        },
+        {
+          "name": "Nathan Blecharczyk",
+          "linkedIn": "https://www.linkedin.com/in/blecharczyk/",
+          "about": "Nathan Blecharczyk is the co-founder, Chief Strategy Officer, and Chairman of Airbnb China. Nathan plays a leading role in driving key strategic initiatives across the global business. Previously he oversaw the creation of Airbnb’s engineering, data science, and performance marketing teams. Nathan became an entrepreneur in his youth, running a business while he was in high school that sold to clients in more than 20 countries. He earned a degree in Computer Science from Harvard University."
+        },
+        {
+          "name": "Joe Gebbia",
+          "linkedIn": "https://www.linkedin.com/in/jgebbia/",
+          "about": "Joe Gebbia is the co-founder of Airbnb which began in his San Francisco living room and spread to nearly 7M listings in 191+ countries, changing how people trust each other. Joe now holds a strategic advisory position and serves on the Board of Directors at Airbnb. His latest venture, Samara, also cemented in economic empowerment, housing resources, and design, produces fully customized, factory-made homes designed to create rental income, house family, and form new types of housing communities."
+        }
+      ],
+      "foundedYear": "2008",
+      "teamSize": "6132",
+      "location": "San Francisco",
+      "description": "Founded in August of 2008 and based in San Francisco, California, Airbnb is a trusted community marketplace for people to list, discover, and book unique accommodations around the world — online or from a mobile phone. Whether an apartment for a night, a castle for a week, or a villa for a month, Airbnb connects people to unique travel experiences, at any price point, in more than 33,000 cities and 192 countries. And with world-class customer service and a growing community of users, Airbnb is the easiest way for people to monetize their extra space and showcase it to an audience of millions.  \r\n\r\nNo global movement springs from individuals. It takes an entire team united behind something big. Together, we work hard, we laugh a lot, we brainstorm nonstop, we use hundreds of Post-Its a week, and we give the best high-fives in town. Headquartered in San Francisco, we have satellite offices in Dublin, London, Barcelona, Paris, Milan, Copenhagen, Berlin, Moscow, São Paolo, Sydney, and Singapore.Brian Chesky is the co-founder,  Head of Community, and  CEO of Airbnb, which he started with Joe Gebbia and Nathan Blecharczyk in 2008. Brian sets the company’s strategy to connect people to unique travel experiences, and drives Airbnb’s mission to create a world where anyone can belong anywhere. Originally from New York, Brian graduated from the Rhode Island School of Design where he received a Bachelor of Fine Arts in Industrial Design.Nathan Blecharczyk is the co-founder, Chief Strategy Officer, and Chairman of Airbnb China. Nathan plays a leading role in driving key strategic initiatives across the global business. Previously he oversaw the creation of Airbnb’s engineering, data science, and performance marketing teams. Nathan became an entrepreneur in his youth, running a business while he was in high school that sold to clients in more than 20 countries. He earned a degree in Computer Science from Harvard University.Joe Gebbia is the co-founder of Airbnb which began in his San Francisco living room and spread to nearly 7M listings in 191+ countries, changing how people trust each other. Joe now holds a strategic advisory position and serves on the Board of Directors at Airbnb. His latest venture, Samara, also cemented in economic empowerment, housing resources, and design, produces fully customized, factory-made homes designed to create rental income, house family, and form new types of housing communities.",
+      "latestNews": [
+        {
+          "title": "Airbnb CEO Brian Chesky on taking it back to basics: ‘I can’t make products just for 41-year-old tech founders’ - The Verge",
+          "link": "https://www.theverge.com/2023/5/9/23716903/airbnb-ceo-brian-chesky-rooms-ai-travel-future-of-work-summer-2023",
+          "date": "May 09, 2023"
+        }
+      ],
+      "imageURL": "https://bookface-images.s3.amazonaws.com/small_logos/3e9a0092bee2ccf926e650e59c06503ec6b9ee65.png",
+      "posts": { "lauchLink": "https://www.ycombinator.com/companiesundefined" }
+    },
+    {
+      "name": "Heroku",
+      "url": "https://www.ycombinator.com/companies/heroku",
+      "founders": [
+        {
+          "name": "Orion Henry",
+          "linkedIn": "https://www.linkedin.com/in/jameslindenbaum"
+        },
+        { "name": "James Lindenbaum" },
+        { "name": "Adam Wiggins" }
+      ],
+      "foundedYear": "2007",
+      "teamSize": "300",
+      "location": "San Francisco",
+      "description": "Heroku, a Salesforce company and industry pioneer in platform as a service (PaaS), enables developers to build and run applications entirely in the cloud. Heroku provides companies from startups to Fortune 500 enterprises with a faster and more effective way to create, deploy, and manage apps.\r\n\r\nHeroku operates the world’s largest PaaS, continuously delivering millions of apps with 6+ million container deployments, 60+ billion routing requests, and 10+ terabytes of application logs per day.",
+      "latestNews": [
+        {
+          "title": "Salesforce.com Buys Heroku For $212 Million In Cash • TechCrunch",
+          "link": "https://techcrunch.com/2010/12/08/breaking-salesforce-buys-heroku-for-212-million-in-cash/",
+          "date": "Dec 08, 2010"
+        }
+      ],
+      "imageURL": "https://bookface-images.s3.amazonaws.com/small_logos/ccf274d8a6c429ccf311e735490c66dee76ccace.png",
+      "posts": { "lauchLink": "https://www.ycombinator.com/companiesundefined" }
+    },
+    {
+      "name": "Insoshi",
+      "url": "https://www.ycombinator.com/companies/insoshi",
+      "founders": [
+        {
+          "name": "Michael Hartl",
+          "linkedIn": "https://www.linkedin.com/in/michaeldhartl/",
+          "about": "Author of ten Learn Enough books and the Ruby on Rails Tutorial, founder of Softcover (acquired May 2022). Founder of  Insoshi (YC W08), an open-source social network (now defunct)."
+        },
+        {
+          "name": "Long Nguyen",
+          "linkedIn": "https://www.linkedin.com/in/long-nguyen-3257b3b/",
+          "about": ""
+        }
+      ],
+      "foundedYear": "",
+      "teamSize": "0",
+      "location": "",
+      "description": "Author of ten Learn Enough books and the Ruby on Rails Tutorial, founder of Softcover (acquired May 2022). Founder of  Insoshi (YC W08), an open-source social network (now defunct).",
+      "latestNews": [],
+      "posts": { "lauchLink": "https://www.ycombinator.com/companiesundefined" }
+    },
+    {
+      "name": "280 North",
+      "url": "https://www.ycombinator.com/companies/280-north",
+      "founders": [
+        {
+          "name": "Ross Boucher",
+          "linkedIn": "https://www.linkedin.com/in/jason-konrad"
+        },
+        {
+          "name": "Tom Robinson",
+          "linkedIn": "https://www.linkedin.com/in/tolmasky"
+        },
+        { "name": "Francisco Tolmasky" }
+      ],
+      "foundedYear": "",
+      "teamSize": "11",
+      "location": "San Francisco",
+      "description": "280 North is a web application company based on their proprietary application framework, Cappuccino. Along with Objective-J, Cappuccino provides a complete toolkit to develop rich web applications. It's modeled after a proven desktop development environment, and has been released as an open source project under the LGPL.\r\n\r\n280 North's first application, 280 Slides, enables anyone with a web browser to quickly and easily create beautiful presentations. 280 Slides takes advantage of the web by making it trivial to find and include great media in your presentation. We also built in advanced features like importing and exporting PowerPoint documents, so your data is always portable.",
+      "latestNews": [],
+      "imageURL": "https://bookface-images.s3.amazonaws.com/small_logos/98ad9900ef7f6da311cde40df3e919b54084a4ba.png",
+      "posts": { "lauchLink": "https://www.ycombinator.com/companiesundefined" }
+    },
+    {
+      "name": "Eclipse Foods",
+      "url": "https://www.ycombinator.com/companies/eclipse-foods",
+      "founders": [
+        {
+          "name": "Aylon Steinhart",
+          "linkedIn": "https://www.linkedin.com/in/aylonsteinhart/",
+          "about": "Aylon is the founder / CEO of Eclipse Foods. Aylon has spoken regularly on food innovation at Harvard, Yale, Berkeley, and Stanford, has been featured in Forbes, WSJ, etc., and has worked with companies such as Nestle and Kellogg’s. At the Good Food Institute, the leading non-profit in alternative proteins, Aylon incubated dozens of startups and advised investors and strategic partners on alternative proteins. Aylon graduated cum laude from UC Berkeley's Haas School of Business."
+        },
+        {
+          "name": "Thomas Elliott Bowman",
+          "linkedIn": "https://www.linkedin.com/in/thomas-bowman-b2a2a9195",
+          "about": ""
+        }
+      ],
+      "foundedYear": "2019",
+      "teamSize": "",
+      "location": "Oakland, CA",
+      "description": "Eclipse Foods is building the future of dairy using micelles (the microscopic magic of milk.) Eclipse has developed the world's first plant-based dairy platform which makes plant-based products with the taste, texture, and functionality of conventional dairy. \r\n\r\nWe are transforming the $500B dairy industry and have raised over $60M from leading investors such as Y Combinator, the chairman of Beyond Meat, the founder of Reddit, the creator of Gmail, Forerunner Ventures, Sozo Ventures, Initialized Capital, and more. \r\n\r\nOur mission is to create a more sustainable, healthy, and humane food system by making plant-based foods that require no sacrifice. \r\nAylon is the founder / CEO of Eclipse Foods. Aylon has spoken regularly on food innovation at Harvard, Yale, Berkeley, and Stanford, has been featured in Forbes, WSJ, etc., and has worked with companies such as Nestle and Kellogg’s. At the Good Food Institute, the leading non-profit in alternative proteins, Aylon incubated dozens of startups and advised investors and strategic partners on alternative proteins. Aylon graduated cum laude from UC Berkeley's Haas School of Business.",
+      "latestNews": [
+        {
+          "title": "Eclipse Foods isn’t out to substitute dairy — it’s on a mission to replace it – TechCrunch",
+          "link": "https://techcrunch.com/2022/06/28/eclipse-foods-isnt-out-to-substitute-dairy-its-on-a-mission-to-replace-it/",
+          "date": "Jun 28, 2022"
+        }
+      ],
+      "imageURL": "https://bookface-images.s3.amazonaws.com/small_logos/515be9fcda4dad738d6f69b48e4df0e71ed64103.png",
+      "posts": { "lauchLink": "https://www.ycombinator.com/companiesundefined" }
+    },
+    {
+      "name": "Modern Fertility",
+      "url": "https://www.ycombinator.com/companies/modern-fertility",
+      "founders": [
+        {
+          "name": "Afton Vechery",
+          "linkedIn": "https://www.linkedin.com/in/aftonv/"
+        },
+        {
+          "name": "Carly Leahy",
+          "linkedIn": "https://www.linkedin.com/in/carlyleahy"
+        }
+      ],
+      "foundedYear": "2017",
+      "teamSize": "25",
+      "location": "San Francisco",
+      "description": "We're a women’s health company making personalized reproductive health information more accessible, earlier in life. We make the same laboratory tests that were previously confined to fertility clinics more accessible for women at home. By arming women with powerful information about their reproductive health, Modern Fertility is closing the fertility information gap and enabling women to own the decisions impacting their bodies and futures. We've raised $22 million from Forerunner Ventures, Maveron, Union Square Ventures, First Round Capital, #Angels and Y Combinator.",
+      "latestNews": [
+        {
+          "title": "Health Care Start-Up Ro to Acquire Modern Fertility - The New York Times",
+          "link": "https://www.nytimes.com/2021/05/19/business/modern-fertility-ro-roman.html",
+          "date": "May 19, 2021"
+        }
+      ],
+      "imageURL": "https://bookface-images.s3.amazonaws.com/small_logos/b80c9ee16644141e27cf06459324dccdc7fd94bf.png",
+      "posts": { "lauchLink": "https://www.ycombinator.com/companiesundefined" }
+    },
+    {
+      "name": "Long Term Stock Exchange",
+      "url": "https://www.ycombinator.com/companies/long-term-stock-exchange",
+      "founders": [
+        {
+          "name": "Eric Ries",
+          "linkedIn": "https://www.linkedin.com/in/eries"
+        },
+        {
+          "name": "John Bautista",
+          "linkedIn": "https://www.linkedin.com/in/john-bautista-a010912"
+        }
+      ],
+      "foundedYear": "2012",
+      "teamSize": "68",
+      "location": "San Francisco",
+      "description": "LTSE partners with companies across their lifecycle to help them grow and scale from formation through IPO. The Long-Term Stock Exchange (LTSE) is an SEC-regulated national securities exchange designed to align great companies and long-term investors with the shared goal of value creation. They have assembled a world-class team of experts and advisors with deep expertise in finance, regulation, law, and technology.\r\n\r\nAt every stage, from private investment into the public markets, strategically managing equity and a company's cap table has an outsized impact on long-term success. So in addition to the exchange, LTSE also built LTSE Equity, a full-lifecycle cap table management solution for planning, managing, and collaborating on startup equity.\r\n\r\nEric Ries, an entrepreneur and author of the New York Times bestseller, The Lean Startup, is the founder of the LTSE. Eric is the creator of the Lean Startup methodology, a global movement and management philosophy practiced by companies large and small. He founded a number of startups, including IMVU, where he served as CTO, and has advised on business and product strategy for startups, venture capital firms, and large companies, including GE, partnering with them on the FastWorks program.",
+      "latestNews": [],
+      "imageURL": "https://bookface-images.s3.amazonaws.com/small_logos/c4eb3cefb725e1a8d1e43e578f29268446d786af.png",
+      "posts": { "lauchLink": "https://www.ycombinator.com/companiesundefined" }
+    },
+    {
+      "name": "Kalshi",
+      "url": "https://www.ycombinator.com/companies/kalshi",
+      "founders": [
+        {
+          "name": "Luana Lopes Lara",
+          "linkedIn": "https://www.linkedin.com/in/luana-lopes-lara-3151068a"
+        },
+        {
+          "name": "Tarek Mansour",
+          "linkedIn": "https://www.linkedin.com/in/mansourtarek/"
+        }
+      ],
+      "foundedYear": "2019",
+      "teamSize": "50",
+      "location": "New York",
+      "description": "Kalshi (www.kalshi.com) is the first federally regulated exchange where you can trade on the outcome of events.  We built Kalshi because we believe that people should be able to capitalize on what they know and have opinions on. We make this possible by expanding what people can trade on and allowing them trade in the domain of everyday knowledge. \r\n\r\nKalshi is developing a new asset class, “event contracts,” and a financial exchange for trading on the outcome of events: we are federally regulated by the CFTC as the first-ever legal futures exchange in the U.S. for trading on a broad category of events.",
+      "jobs": [
+        {
+          "role": "Quantitative Researcher (Market Making)",
+          "link": "https://www.ycombinator.com/companies/companies/kalshi/jobs/P4jftiM-quantitative-researcher-market-making",
+          "locations": ["New York", " New York", " United States"]
+        },
+        {
+          "role": "Product Designer",
+          "link": "https://www.ycombinator.com/companies/companies/kalshi/jobs/FnhkPaL-product-designer",
+          "locations": ["Remote"]
+        },
+        {
+          "role": "Market Surveillance Lead",
+          "link": "https://www.ycombinator.com/companies/companies/kalshi/jobs/OTVxcVj-market-surveillance-lead",
+          "locations": ["New York or Remote"]
+        },
+        {
+          "role": "Social Media Manager",
+          "link": "https://www.ycombinator.com/companies/companies/kalshi/jobs/i4MpTDq-social-media-manager",
+          "locations": ["New York or Remote"]
+        },
+        {
+          "role": "Market Structure",
+          "link": "https://www.ycombinator.com/companies/companies/kalshi/jobs/MhdJdtR-market-structure",
+          "locations": ["New York", " NY", " US"]
+        }
+      ],
+      "latestNews": [
+        {
+          "title": "A New Prediction Market Lets Investors Bet Big on Almost Anything",
+          "link": "https://www.bloomberg.com/news/features/2022-05-26/kalshi-s-stock-market-of-the-world-let-s-you-bet-on-anything?sref=75bHIbat",
+          "date": "May 28, 2022"
+        }
+      ],
+      "imageURL": "https://bookface-images.s3.amazonaws.com/small_logos/42535d3c0d7bdb4069a3dc31f088f327ee7e59da.png",
+      "posts": { "lauchLink": "https://www.ycombinator.com/companiesundefined" }
+    },
+    {
+      "name": "Materee",
+      "url": "https://www.ycombinator.com/companies/materee",
+      "founders": [
+        {
+          "name": "Hansel Hansel",
+          "linkedIn": "https://www.linkedin.com/in/hansel-hansel-05247554",
+          "about": "Hansel was a Senior VP of Strategy & Revenue at GudangAda (Sequoia-funded B2B e-commerce startup in Indonesia that has raised more than $130m) and a BCG consultant focusing on construction value chain. He completed his MBA from MIT Sloan School of Management."
+        },
+        {
+          "name": "Steven Walentino",
+          "linkedIn": "http://www.linkedin.com/in/steven-walentino",
+          "about": "Steven Walentino is the co-founder and Chief Technology Officer of Materee. He spent 7 years as a software engineer in Silicon Valley companies like Google, Yahoo, and Zillow Group. He also led engineering team at Kargo Tech, a Sequoia-funded logistics company in Indonesia. Born and raised in Indonesia, he earned his Bachelor's Degree in Computer Science from UC Berkeley."
+        }
+      ],
+      "foundedYear": "2022",
+      "teamSize": "20",
+      "location": "Jakarta, Indonesia",
+      "description": "Materee is an e-commerce platform for construction materials in Indonesia. \r\n\r\nConstruction is one of the most important industries in Indonesia. Despite its importance, procuring raw materials for construction work involves many phone calls, text messages, as well as back and forth communications. Materee aims to transform and simplify construction material procurement process while assisting contractors to focus on the most important activity, completing their projects. Hansel was a Senior VP of Strategy & Revenue at GudangAda (Sequoia-funded B2B e-commerce startup in Indonesia that has raised more than $130m) and a BCG consultant focusing on construction value chain. He completed his MBA from MIT Sloan School of Management.Steven Walentino is the co-founder and Chief Technology Officer of Materee. He spent 7 years as a software engineer in Silicon Valley companies like Google, Yahoo, and Zillow Group. He also led engineering team at Kargo Tech, a Sequoia-funded logistics company in Indonesia. Born and raised in Indonesia, he earned his Bachelor's Degree in Computer Science from UC Berkeley.",
+      "latestNews": [],
+      "imageURL": "https://bookface-images.s3.amazonaws.com/small_logos/067a567fc6eee729415d72514491e970329e357d.png",
+      "posts": {
+        "lauchLink": "https://www.ycombinator.com/companies/launches/Gff-materee-simplifying-construction-materials-procurement-in-indonesia",
+        "postsList": [
+          {
+            "title": "Problem & Target Customer",
+            "details": [
+              "Construction industry is one of largest industry in Indonesia. Despite its importance, purchasing construction materials is challenging:",
+              "Our customers are contractors & construction material stores."
+            ]
+          },
+          {
+            "title": "How Materee can help",
+            "details": [
+              "We create an E2E technology solution that integrate & streamline operations throughout the value chain, with e-commerce as our core"
+            ]
+          },
+          {
+            "title": "Who we are",
+            "details": [
+              "- Hansel (CEO); B2B industry & commercial expert with 10+ years of experience in Strategy (BCG), Sales, and Operations, including in Construction and Manufacturing industries.",
+              "- Steven Walentino (CTO); Software engineer with 8+ years of experience in Cloud Technology and Data Analytics from global tech companies such as Google. He also led engineering team in Kargo, leading tech logistic company in Indonesia."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "Second",
+      "url": "https://www.ycombinator.com/companies/second",
+      "founders": [
+        {
+          "name": "Eric Rowell",
+          "linkedIn": "https://www.linkedin.com/in/errowell/",
+          "about": "Founder & CEO of Second.  Previously Co-founder and CTO of Uiflow, Head of Data Visualization at Workday, UI architect at LinkedIn and Yahoo, author of HTML5 Canvas Cookbook, creator of several popular open source libraries such as KineticJS, El Grapho, and ConcreteJS, creator of several high traffic websites including html5canvastutorials.com and bigocheatsheet.com, and wannabe indie game developer."
+        }
+      ],
+      "foundedYear": "2023",
+      "teamSize": "2",
+      "location": "",
+      "description": "Founder & CEO of Second.  Previously Co-founder and CTO of Uiflow, Head of Data Visualization at Workday, UI architect at LinkedIn and Yahoo, author of HTML5 Canvas Cookbook, creator of several popular open source libraries such as KineticJS, El Grapho, and ConcreteJS, creator of several high traffic websites including html5canvastutorials.com and bigocheatsheet.com, and wannabe indie game developer.",
+      "jobs": [
+        {
+          "role": "Founding AI Agent Engineer",
+          "link": "https://www.ycombinator.com/companies/companies/second/jobs/zBfVE7i-founding-ai-agent-engineer",
+          "locations": ["San Francisco", " CA", " US"]
+        }
+      ],
+      "latestNews": [],
+      "imageURL": "https://bookface-images.s3.amazonaws.com/small_logos/23eb4fe2ce21be8fedf041808035faafb7a1643d.png",
+      "posts": {
+        "lauchLink": "https://www.ycombinator.com/companies/launches/J1C-second-the-world-s-first-fully-automated-codebase-migration-platform",
+        "postsList": [
+          {
+            "details": [
+              "Hi friends! Second provides AI agents that specialize in codebase migrations. Today we support:",
+              "",
+              "👉 Click here to see the product demo video",
+              "",
+              "",
+              "Engineering teams at large companies spend about 50% of their time on codebase maintenance including migrations and upgrades. Even worse, many organizations are so far behind on modernizing their technology stacks that they have become paralyzed and unable to move forward."
+            ],
+            "imageLinks": [
+              "https://www.ycombinator.com/companies/media/?type=post&id=73110&key=user_uploads/602008/f0eb07b3-1568-4242-ada8-5eb4ba86727a"
+            ],
+            "links": ["https://www.youtube.com/watch?v=bwq7JRfTP9U"],
+            "videoLinks": [
+              "https://www.ycombinator.com/companieshttps://www.youtube.com/embed/bwq7JRfTP9U"
+            ],
+            "title": "The Problem"
+          },
+          {
+            "title": "Our Vision and Mission",
+            "details": [
+              "Here at Second, we see a future where all engineering grunt work tasks are automated, giving human engineers more space to innovate and create new software. We are on a mission to realize this future by first automating migrations and upgrades for every codebase in the world."
+            ]
+          },
+          {
+            "title": "How it Works",
+            "details": [
+              "Users connect a Second Agent to their GitHub account, select a repository (or use one of our example templates), run a migration module, and get a pull request. It’s that easy!",
+              "Each of our modules are hand-built to perform specific migrations, and serve as a high level blueprint or plan. Next, our agents run these modules by utilizing AI, codemods, and other techniques to perform directory restructuring and code changes. Our agents have proprietary codebase scanners, dependency resolvers, and much more. Every migration job is broken up into steps like this:",
+              ""
+            ],
+            "imageLinks": [
+              "https://www.ycombinator.com/companies/media/?type=post&id=73110&key=user_uploads/602008/98660970-8e55-4483-a5e7-3ab4383fab52"
+            ]
+          },
+          {
+            "title": "Why we are Relaunching",
+            "details": [
+              "Second was in the last batch (W23), but we are relaunching because we have refocused our product on migrations and upgrades only, whereas previously we were focused on commodity web application feature creation. We made this change because it became crystal clear after hundreds of discovery conversations that codebase maintenance is a much bigger pain point for large companies. We are already working with three large enterprises and couldn’t be happier! 😄"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "Instaclass",
+      "url": "https://www.ycombinator.com/companies/slingshot-2",
+      "founders": [
+        {
+          "name": "Flynn Traeger",
+          "linkedIn": "https://linkedin.com/in/flynn-traeger",
+          "about": "Software engineer by training but cut my teeth in headhunting so can't stop talking to people. Ex-Stanford rower. 2x All-American. I now chunk the internet into 2-3min audio clips."
+        },
+        {
+          "name": "Bryn Hughes",
+          "linkedIn": "https://linkedin.com/in/bryn-hughes-3968b7201",
+          "about": "Stanford CS 2023 grad with previous research in ASL translation with LLMs and model design."
+        },
+        {
+          "name": "Moe Khalil",
+          "linkedIn": "https://linkedin.com/in/moe-khalil-73a2371a1",
+          "about": "Stanford CS '23"
+        },
+        {
+          "name": "Porter Weisberg",
+          "linkedIn": "https://linkedin.com/in/porter-weisberg",
+          "about": "Previously a C.S. major and all-academic rower at Stanford, and has been building startups since."
+        }
+      ],
+      "foundedYear": "2023",
+      "teamSize": "4",
+      "location": "San Francisco",
+      "description": "Instaclass lets you create a class on anything you want, using the best content that's already on the internet!Software engineer by training but cut my teeth in headhunting so can't stop talking to people. Ex-Stanford rower. 2x All-American. I now chunk the internet into 2-3min audio clips.Stanford CS 2023 grad with previous research in ASL translation with LLMs and model design.Stanford CS '23Previously a C.S. major and all-academic rower at Stanford, and has been building startups since.",
+      "latestNews": [
+        {
+          "title": "Our favorite startups from YC's Summer 2023 Demo Day, Day 1 | TechCrunch",
+          "link": "https://techcrunch.com/2023/09/06/ycombinator-demo-day-one-summer-2023/",
+          "date": "Sep 06, 2023"
+        }
+      ],
+      "imageURL": "https://bookface-images.s3.amazonaws.com/small_logos/586e6c66da9e51133bfe3b33a945700bba9c53d9.png",
+      "posts": {
+        "lauchLink": "https://www.ycombinator.com/companies/launches/KwG-instaclass-make-a-masterclass-on-literally-anything"
+      }
+    },
+    {
+      "name": "highlight.io",
+      "url": "https://www.ycombinator.com/companies/highlight-io",
+      "founders": [
+        {
+          "name": "Jay Khatri",
+          "linkedIn": "https://linkedin.com/in/jay-khatri",
+          "about": "Cofounder / CEO @ Highlight (formerly founder @ Reploy, S20)"
+        },
+        {
+          "name": "Vadim Korolik",
+          "linkedIn": "https://www.linkedin.com/in/vkorolik/",
+          "about": "Vadim Korolik is the founder and CTO of highlight.io, the open source session replay and error monitoring framework. A native of the Bay Area, Vadim previously worked at Pure Storage and drive.ai."
+        }
+      ],
+      "foundedYear": "2023",
+      "teamSize": "8",
+      "location": "Irvine, CA",
+      "description": "highlight.io is the open source, full-stack monitoring platform. With just a few lines of code, Highlight makes it easy to understand what's slowing down your users and swiftly address errors and regressions on your web app.  Imagine that you have a customer reporting an issue on your web app. With highlight.io, you can playback their exact interactions to reproduce the bug and get notified of any future errors that could happen.\r\n\r\nThat being said, we’re just getting started! We have plans to go way deeper into your observability stack to give you all of the visibility you need. Join us on this journey:\r\n- Star us on GitHub (https://github.com/highlight/highlight) to keep up with releases and news.\r\n- Join our Discord (https://highlight.io/community) to share product feedback and thoughts.\r\nCofounder / CEO @ Highlight (formerly founder @ Reploy, S20)Vadim Korolik is the founder and CTO of highlight.io, the open source session replay and error monitoring framework. A native of the Bay Area, Vadim previously worked at Pure Storage and drive.ai.",
+      "latestNews": [
+        {
+          "title": "Highlight launches full-stack application monitoring platform, raises $8M | VentureBeat",
+          "link": "https://venturebeat.com/programming-development/highlight-launches-full-stack-application-monitoring-platform-raises-8m/",
+          "date": "Aug 15, 2023"
+        }
+      ],
+      "imageURL": "https://bookface-images.s3.amazonaws.com/small_logos/0d4301601e4f70936655aa2574a0bf0a798fe1bd.png",
+      "posts": {
+        "lauchLink": "https://www.ycombinator.com/companies/launches/HwV-highlight-io-open-source-session-replay-error-monitoring",
+        "postsList": [
+          {
+            "imageLinks": [
+              "https://www.ycombinator.com/companies/media/?type=post&id=68975&key=user_uploads/241768/1b79410b-8b41-4e1e-8869-c4ccfe7d2130"
+            ],
+            "details": [
+              "",
+              "highlight.io is an open-source session replay and error monitoring tool that helps teams reproduce hard-to-crack issues and understand product usage. We enable developers to understand WHY bugs are thrown on their web apps to eliminate the noisy alerts they get from more traditional monitoring tools.",
+              "highlight.io is already being used in production by 2k+ developers and 80+ companies. Get started for free at app.highlight.io and give us a ⭐️ at github.com/highlight/highlight."
+            ],
+            "title": "TL;DR:",
+            "links": [
+              "http://highlight.io",
+              "http://highlight.io",
+              "http://app.highlight.io",
+              "http://github.com/highlight/highlight"
+            ]
+          },
+          {
+            "title": "The Problem",
+            "details": [
+              "How many times have you gotten an alert from Bugsnag or Sentry, and dismissed it because you weren’t sure about what caused it? And how many of you have an endless backlog of errors that your team should triage, but haven’t gotten to yet?",
+              "We’ve found that when debugging an issue or customer request, the toolset that you use is responsible for delivering one thing only: context. And if there’s any gaps in this context, engineers are left in the dark.",
+              "To solve this, at our last companies, we found a lot of value in instrumenting a session replay-like tool, (similar to Logrocket or Fullstory), paired with an error monitoring tool (like Bugsnag). In fact, we’ve built these sorts of tools ourselves to hackily solve the problem. Enter highlight.io."
+            ],
+            "links": ["http://highlight.io"]
+          },
+          {
+            "title": "The Solution: Session Replay 🤝 Error Monitoring",
+            "links": [
+              "http://highlight.io",
+              "https://www.highlight.io/docs/session-replay/privacy"
+            ],
+            "details": [
+              "With a simple yarn/npm import in your frontend and an optional import in your backend, highlight.io gives you session replay and error monitoring out of the box. This means that you can:",
+              "Lastly, given the privacy-sensitive nature of the product, we have a very powerful privacy API that you can take a look at in our docs here."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "Unstatiq",
+      "url": "https://www.ycombinator.com/companies/unstatiq",
+      "founders": [
+        {
+          "name": "Sachin Jaishankar",
+          "linkedIn": "https://www.linkedin.com/in/sachinjaishankar",
+          "about": "Getting the right data in the right places"
+        },
+        {
+          "name": "Nish Singaraju",
+          "linkedIn": "https://www.linkedin.com/in/nish-singaraju-9472ba175/",
+          "about": "Speeding up data integrations and transformations using AI."
+        }
+      ],
+      "foundedYear": "2022",
+      "teamSize": "2",
+      "location": "San Francisco",
+      "description": "There are billions of dollars of hospital waste caused by inefficient, disconnected supply chains and finance data. Today, clinics are facing unprecedented backorders, recalls, and purchase verticals (medical devices, SaaS, security, commodities). We are building a single product to 10x a fragmented industry with each tool built almost 20 years ago.Getting the right data in the right placesSpeeding up data integrations and transformations using AI.",
+      "latestNews": [],
+      "imageURL": "https://bookface-images.s3.amazonaws.com/small_logos/5ab6c0b2089b8ff3c6420e7f4f703ae0322fb997.png",
+      "posts": { "lauchLink": "https://www.ycombinator.com/companiesundefined" }
+    },
+    {
+      "name": "Lively, Inc.",
+      "url": "https://www.ycombinator.com/companies/lively-inc",
+      "founders": [
+        {
+          "name": "Alex Cyriac",
+          "linkedIn": "https://www.linkedin.com/in/alex-cyriac-1218137"
+        },
+        {
+          "name": "Shobin Uralil",
+          "linkedIn": "https://www.linkedin.com/shobinuralil"
+        }
+      ],
+      "foundedYear": "2016",
+      "teamSize": "195",
+      "location": "San Francisco",
+      "description": "Out-of-pocket healthcare costs are skyrocketing and every day, people all across America are forced to make difficult decisions about their health. \r\n\r\nLively is the benefits solutions provider that gets it right. We designed our solutions to take the guesswork out of managing benefits. And our innovative features are built to simplify benefits administration and evolve with your business. Managing wellness and wealth takes more than a series of transactions. By combining robust features with unparalleled service, we make benefits administration effortless, even when time and energy are limited. Experience benefits administration as it should be with Lively.\r\n\r\nGo to www.livelyme.com to learn about how HSAs other modern employee benefits can help you and your team.",
+      "latestNews": [
+        {
+          "title": "Lively is building the modern health savings account that puts consumers first – TechCrunch",
+          "link": "https://techcrunch.com/2021/10/13/lively-is-building-the-modern-health-savings-account-that-puts-consumers-first/",
+          "date": "Oct 13, 2021"
+        }
+      ],
+      "imageURL": "https://bookface-images.s3.amazonaws.com/small_logos/04df2fe7c073695661ca29d77ad166593ebc25d5.png",
+      "posts": { "lauchLink": "https://www.ycombinator.com/companiesundefined" }
+    },
+    {
+      "name": "Monzo Bank",
+      "url": "https://www.ycombinator.com/companies/monzo-bank",
+      "founders": [
+        {
+          "name": "Jonas Templestein",
+          "linkedIn": "https://www.linkedin.com/in/tomblomfield",
+          "about": "Building nustom.com. Previously built Monzo"
+        },
+        {
+          "name": "Tom Blomfield",
+          "about": "Cofounded GoCardless (YC S2011) and Monzo (YC Continuity). Based in London."
+        }
+      ],
+      "foundedYear": "2015",
+      "teamSize": "2450",
+      "location": "London, United Kingdom",
+      "description": "YC has written a good overview of our business on their blog: https://blog.ycombinator.com/monzo-makes-money-work-for-everyone/\r\n\r\nOur mission is to make money work for everyone. We are the UK's leading digital bank for individuals and businesses, reinventing the traditional banking industry one customer at a time. We're relentlessly mission driven and always put our customers first - from what products we chose to launch next to our transparency and use of simple language. With a Net Promoter Score of 70+, it shows. \r\n\r\nFrom our founding in 2015, we now have over 7 million customers in the UK (13% of UK adults) and are building out our team in the US. We've seen incredible organic growth, acquiring 150,000 customers / month in 2022, with 80% of this coming from word of mouth. Our weekly active user rate is ~60% and ~40% of our active users use us as their Main Bank account, showing that we are a product that is embedded in our users' daily lives. We've grown to ~2,450 staff (~400 of which make up the product/tech team), and are backed by YC, Stripe, Tencent, Mike Moritz, and others.\r\n\r\nInternally, we encourage an open, collaborative, and inclusive working environment - we were voted the #1 startup where people in the UK want to work for the second year running in 2022. We contribute to open source software, and we continually engage with our wonderful community. We're hiring talented, creative problem-solvers to help us build the bank of the future. Join us!Building nustom.com. Previously built MonzoCofounded GoCardless (YC S2011) and Monzo (YC Continuity). Based in London.",
+      "latestNews": [
+        {
+          "title": "Monzo, the UK challenger bank with 9 million customers, raises $430 million | TechCrunch",
+          "link": "https://techcrunch.com/2024/03/05/monzo-the-uk-challenger-bank-with-9-million-customers-raises-430-million/",
+          "date": "Mar 05, 2024"
+        }
+      ],
+      "imageURL": "https://bookface-images.s3.amazonaws.com/small_logos/b1262acc9e79773337df0be8c8de0cd79a0a813f.png",
+      "posts": { "lauchLink": "https://www.ycombinator.com/companiesundefined" }
+    },
+    {
+      "name": "New Story",
+      "url": "https://www.ycombinator.com/companies/new-story",
+      "founders": [
+        {
+          "name": "Brett Hagler",
+          "linkedIn": "http://www.linkedin.com/in/rbhagler/",
+          "about": "Co-Founder and CEO at New Story."
+        },
+        {
+          "name": "Matthew Marshall",
+          "linkedIn": "http://linkedin.com/in/jamesmatthewmarshall",
+          "about": "Co-founder and Chief Business Officer of New Story. \n\nNew Story pioneers solutions to end global homelessness through a market-driven approach and since starting 8 years ago we've raised over 50M+ and built 37 communities (100-150 homes per project) in Latin America. Our goal is to house 1M individuals by 2030 through sustainable and scalable affordable housing models by blending a mixture of philanthropy, impact investment, and technical expertise."
+        }
+      ],
+      "foundedYear": "2014",
+      "teamSize": "35",
+      "location": "Atlanta, GA",
+      "description": "We’re shaping a future beyond charity — where every family can own a home.\r\nCo-Founder and CEO at New Story. Co-founder and Chief Business Officer of New Story. \n\nNew Story pioneers solutions to end global homelessness through a market-driven approach and since starting 8 years ago we've raised over 50M+ and built 37 communities (100-150 homes per project) in Latin America. Our goal is to house 1M individuals by 2030 through sustainable and scalable affordable housing models by blending a mixture of philanthropy, impact investment, and technical expertise.",
+      "latestNews": [
+        {
+          "title": "How an 11-Foot-Tall 3-D Printer Is Helping to Create a Community - The New York Times",
+          "link": "https://www.nytimes.com/2021/09/28/business/3D-printing-homes.html",
+          "date": "Sep 28, 2021"
+        }
+      ],
+      "imageURL": "https://bookface-images.s3.amazonaws.com/small_logos/280805d97b8f928525e064cfec1a11ad08073997.png",
+      "posts": { "lauchLink": "https://www.ycombinator.com/companiesundefined" }
+    },
+    {
+      "name": "Stripe",
+      "url": "https://www.ycombinator.com/companies/stripe",
+      "founders": [{ "name": "Patrick Collison" }, { "name": "John Collison" }],
+      "foundedYear": "2009",
+      "teamSize": "7000",
+      "location": "San Francisco",
+      "description": "Launched out of Y Combinator’s 2009 Summer batch, Stripe is a global technology company that builds economic infrastructure for the internet. Businesses of every size—from new startups to public companies—use our software to accept payments and manage their businesses online Stripe is a proud partner of YC companies—from Airbnb (S09) to Defog (W23)—to help them grow their businesses and increase the GDP of the internet.",
+      "jobs": [
+        {
+          "role": "Frontend Engineer, Identity",
+          "link": "https://www.ycombinator.com/companies/companies/stripe/jobs/jdBhPmD-frontend-engineer-identity",
+          "locations": ["United States"]
+        },
+        {
+          "role": "Machine Learning Engineer, Identity",
+          "link": "https://www.ycombinator.com/companies/companies/stripe/jobs/9d8GGVs-machine-learning-engineer-identity",
+          "locations": ["San Francisco "]
+        },
+        {
+          "role": "Head of Engineering, Identity Graph",
+          "link": "https://www.ycombinator.com/companies/companies/stripe/jobs/yaLKuLq-head-of-engineering-identity-graph",
+          "locations": ["San Francisco "]
+        }
+      ],
+      "latestNews": [
+        {
+          "title": "Stripe: 2023 CNBC Disruptor 50",
+          "link": "https://www.cnbc.com/2023/05/09/stripe-disruptor-50.html",
+          "date": "May 09, 2023"
+        }
+      ],
+      "imageURL": "https://bookface-images.s3.amazonaws.com/small_logos/e5ccedd9995f6524b4a0379062eb67f7c991613e.png",
+      "posts": { "lauchLink": "https://www.ycombinator.com/companiesundefined" }
+    },
+    {
+      "name": "WalletKit",
+      "url": "https://www.ycombinator.com/companies/walletkit",
+      "founders": [
+        {
+          "name": "Tushar Soni",
+          "linkedIn": "https://linkedin.com/in/tusharsoni",
+          "about": "I'm the co-founder at WalletKit building the best developer platform for web3 consumer apps.\n\nPrior to starting WalletKit, I was a tech lead at Robinhood Crypto building the Robinhood Wallet app. Previously, I worked on large-scale consumer apps such as Uber Eats, Apple Music, and App Store.\n\nI also created and maintain Copper (https://gocopper.dev) - a fullstack toolkit to build web apps in Go."
+        },
+        {
+          "name": "Qinyu Tong",
+          "linkedIn": "https://linkedin.com/in/tongqinyu",
+          "about": "I'm the co-founder at WalletKit building the best developer platform for web3 consumer app developers. Prior WalletKit, I was at Robinhood Crypto building the Robinhood Wallet. Previously, I worked at LinkedIn on enterprise infra such as Ads API, AI Infra."
+        }
+      ],
+      "foundedYear": "2023",
+      "teamSize": "2",
+      "location": "New York",
+      "description": "WalletKit is a developer platform that abstracts away the complexities of blockchain tech and provides simple HTTP APIs. It is best suited for building user-friendly consumer apps focused on mass adoption.\r\n\r\nWalletKit gives you the tools and APIs to build with the most popular building blocks in blockchain: wallets, tokens, and NFTs. These flexible building blocks can be put together to create meaningful user experiences, whether it's for rewards and loyalty, gaming, payments, or anything else you can imagine.\r\n\r\nIf you are building decentralized consumer products, come talk to us!I'm the co-founder at WalletKit building the best developer platform for web3 consumer apps.\n\nPrior to starting WalletKit, I was a tech lead at Robinhood Crypto building the Robinhood Wallet app. Previously, I worked on large-scale consumer apps such as Uber Eats, Apple Music, and App Store.\n\nI also created and maintain Copper (https://gocopper.dev) - a fullstack toolkit to build web apps in Go.I'm the co-founder at WalletKit building the best developer platform for web3 consumer app developers. Prior WalletKit, I was at Robinhood Crypto building the Robinhood Wallet. Previously, I worked at LinkedIn on enterprise infra such as Ads API, AI Infra.",
+      "latestNews": [],
+      "imageURL": "https://bookface-images.s3.amazonaws.com/small_logos/bf87ba6935c62ced3663e7146e71a960f3daf73f.png",
+      "posts": {
+        "lauchLink": "https://www.ycombinator.com/companies/launches/J2z-walletkit-developer-platform-for-building-consumer-friendly-web3-apps",
+        "postsList": [
+          {
+            "details": [
+              "⏳ TLDR; WalletKit is a developer platform, that helps you build decentralized apps without any crypto knowledge. It is best used for building user-friendly consumer apps aimed at mass adoption. Come talk to us if you’re building in this space or if you’re curious about adding decentralized features to your product.",
+              "Hey everyone! This is @Tushar Soni and @Qinyu Tong from @WalletKit, and we are super excited to tell you what we’ve been working on.",
+              "",
+              "Crypto has gone through several ups and downs in its decade-long history. However, we have yet to build meaningful use cases outside of trading. There are a few reasons that are slowing us down:",
+              "Our goal is to elevate the developer experience for building decentralized consumer apps and enable builders to focus on their use case, not blockchain infrastructure."
+            ],
+            "links": [
+              "https://bookface.ycombinator.com/user/139706",
+              "https://bookface.ycombinator.com/user/1440060",
+              "https://bookface.ycombinator.com/company/29123"
+            ],
+            "imageLinks": [
+              "https://www.ycombinator.com/companies/media/?type=post&id=73221&key=user_uploads/139706/1b7b6d81-ebee-42dd-a5bf-c926342dc9d6"
+            ],
+            "title": "🤔 Problem"
+          },
+          {
+            "title": "🔧 Solution",
+            "details": [
+              "We are rethinking how to build decentralized apps by providing engineers with simple high-level abstractions to create amazing products.",
+              "WalletKit wraps popular blockchain building blocks into easy-to-use HTTP APIs. Today, we support building with wallets, tokens, and NFTs.",
+              "",
+              "We took it a step further with WalletKit Dashboard - a digital asset management tool for your app-related digital assets. Use WalletKit Dashboard to create wallets, tokens, mint NFTs, make transfers, and interact with user wallets.",
+              ""
+            ],
+            "imageLinks": [
+              "https://www.ycombinator.com/companies/media/?type=post&id=73221&key=user_uploads/139706/77b906df-a7b3-4387-ad5f-43630e739bdf",
+              "https://www.ycombinator.com/companies/media/?type=post&id=73221&key=user_uploads/139706/feafd2f1-3d58-493f-bc5e-3ee76bf2f14e"
+            ]
+          },
+          {
+            "title": "👽 Founders",
+            "details": [
+              "Qinyu and I met at Robinhood, where we led the Web3 team responsible for building Robinhood Wallet. We experienced firsthand the lack of tools and infrastructure needed to build a consumer-friendly product.",
+              "It became clear to us that this gap in infrastructure is holding back the entire community from creating amazing products that have a chance at mass adoption. It acts as a barrier for founders to build decentralized products. WalletKit aims to remove this barrier entirely."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "SolStar",
+      "url": "https://www.ycombinator.com/companies/solstar",
+      "founders": [
+        {
+          "name": "Ryan Endacott",
+          "linkedIn": "https://www.linkedin.com/in/ryan-endacott-26786255/",
+          "about": "Co-Founder and CEO of SolStar, Ryan is an engineer with a longtime history as a community builder. Before SolStar, he was a Senior Software Engineer at Loon (Google X), where he worked on Mission Control systems. He helped found the annual University of Missouri hackathon TigerHacks and rebuilt the Mizzou Computing Association from the ground up to empower students to learn coding skills not taught in the classroom. He loves building community tools, and is the creator of solfaucet.com."
+        }
+      ],
+      "foundedYear": "2021",
+      "teamSize": "2",
+      "location": "Monterey, CA",
+      "description": "SolStar makes it possible for anyone to use crypto—even your grandpa!\r\n\r\nAll you need to get started is a credit card. Skip the confusing steps above and dive in right away with a secure, approachable tool that makes crypto fun. You can add SolStar Tip Bot to your Discord, check your balance, and send a tip to a friend all within a few minutes.Co-Founder and CEO of SolStar, Ryan is an engineer with a longtime history as a community builder. Before SolStar, he was a Senior Software Engineer at Loon (Google X), where he worked on Mission Control systems. He helped found the annual University of Missouri hackathon TigerHacks and rebuilt the Mizzou Computing Association from the ground up to empower students to learn coding skills not taught in the classroom. He loves building community tools, and is the creator of solfaucet.com.",
+      "latestNews": [],
+      "imageURL": "https://bookface-images.s3.amazonaws.com/small_logos/c3ccb9b78ee502d1956206444281fb6c33ae78f0.png",
+      "posts": {
+        "lauchLink": "https://www.ycombinator.com/companies/launches/H3i-solstar-venmo-for-discord-the-easiest-way-to-send-crypto-in-a-community"
+      }
+    },
+    {
+      "name": "Hiro Systems",
+      "url": "https://www.ycombinator.com/companies/hiro-systems",
+      "founders": [
+        {
+          "name": "Muneeb Ali",
+          "about": "Co-founder of the Stacks project, CEO of Trust Machines."
+        }
+      ],
+      "foundedYear": "2013",
+      "teamSize": "40",
+      "location": "New York",
+      "description": "Hiro System builds developer tools for Bitcoin L1 and the Stacks L2 (layer-2). Stacks is a Bitcoin layer for smart contracts; it's an open-source project with an ecosystem of independent entities. Hiro serves 350M+ monthly API requests and thousands of crypto users on dev products.Co-founder of the Stacks project, CEO of Trust Machines.",
+      "jobs": [
+        {
+          "role": "Blockchain Engineer",
+          "link": "https://www.ycombinator.com/companies/companies/hiro-systems/jobs/QXDWQ9l-blockchain-engineer",
+          "locations": ["US"]
+        },
+        {
+          "role": "Sr. DevOps Engineer",
+          "link": "https://www.ycombinator.com/companies/companies/hiro-systems/jobs/Feq2TPh-sr-devops-engineer",
+          "locations": ["US"]
+        }
+      ],
+      "latestNews": [],
+      "imageURL": "https://bookface-images.s3.amazonaws.com/small_logos/96d6585dd5c6970a5bdb324b4a4d6e71b977b149.png",
+      "posts": { "lauchLink": "https://www.ycombinator.com/companiesundefined" }
+    },
+    {
+      "name": "Democracy Earth",
+      "url": "https://www.ycombinator.com/companies/democracy-earth",
+      "founders": [
+        {
+          "name": "Pia Mancini",
+          "linkedIn": "https://www.linkedin.com/in/piamancini"
+        },
+        {
+          "name": "Santiago Siri",
+          "linkedIn": "http://ar.linkedin.com/in/santisiri"
+        }
+      ],
+      "foundedYear": "2015",
+      "teamSize": "2",
+      "location": "Madrid, Spain",
+      "description": "Our mission is to build a sustainable democracy for the Information Age. We create censorship resistant, free and open source software that can deploy democracies anywhere there's an internet connection. We have implemented governance infrastructure for crypto networks; shadow referendums for activists in critical countries and the first Quadratic Voting implementation in the USA for the Colorado Legislative House.\r\n\r\nBacked by Templeton Foundation (2019), Y Combinator (2015) and Fast Forward (2016). Presented on TED Global (2014). Awarded by MIT Technology Review (2017) and Singularity University (2016). We did research for Alphabet, World Economic Forum and the University of Berkeley.",
+      "latestNews": [],
+      "imageURL": "https://bookface-images.s3.amazonaws.com/small_logos/31289c55d5f1228f43a9bcccfd0f7933fb63a58c.png",
+      "posts": { "lauchLink": "https://www.ycombinator.com/companiesundefined" }
+    },
+    {
+      "name": "Exa",
+      "url": "https://www.ycombinator.com/companies/metaphor",
+      "founders": [
+        {
+          "name": "Will Bryk",
+          "linkedIn": "https://www.linkedin.com/in/william-bryk",
+          "about": "I grew up in NYC, then studied CS and physics at Harvard, where I did some ML research and led the robotics club. I then spent two years as a software engineer at the ML startup Cresta, while also writing a book about the history of civilization in my spare time. When I realized that the future of civilization depends almost entirely on the quality of information we consume, I left to start Metaphor."
+        }
+      ],
+      "foundedYear": "2021",
+      "teamSize": "7",
+      "location": "San Francisco",
+      "description": "Exa is a search engine built for AIs. We enable developers to filter the internet's content with complex queries in order to bring the world's knowledge into their AI apps.I grew up in NYC, then studied CS and physics at Harvard, where I did some ML research and led the robotics club. I then spent two years as a software engineer at the ML startup Cresta, while also writing a book about the history of civilization in my spare time. When I realized that the future of civilization depends almost entirely on the quality of information we consume, I left to start Metaphor.",
+      "jobs": [
+        {
+          "role": "Generalist Engineer",
+          "link": "https://www.ycombinator.com/companies/companies/exa/jobs/fRvw2Vw-generalist-engineer",
+          "locations": ["San Francisco", " CA"]
+        },
+        {
+          "role": "Research Scientist or Research Engineer",
+          "link": "https://www.ycombinator.com/companies/companies/exa/jobs/z9af6mz-research-scientist-or-research-engineer",
+          "locations": ["San Francisco", " CA"]
+        },
+        {
+          "role": "Design Engineer",
+          "link": "https://www.ycombinator.com/companies/companies/exa/jobs/4G6YdgZ-design-engineer",
+          "locations": ["San Francisco", " CA"]
+        }
+      ],
+      "latestNews": [],
+      "imageURL": "https://bookface-images.s3.amazonaws.com/small_logos/52045f1870e5f9705f78339ab4b3f96126403b66.png",
+      "posts": { "lauchLink": "https://www.ycombinator.com/companiesundefined" }
+    },
+    {
+      "name": "Heysan",
+      "url": "https://www.ycombinator.com/companies/heysan",
+      "founders": [
+        {
+          "name": "Gustaf Alstromer",
+          "linkedIn": "https://www.linkedin.com/in/gustafalstromer/",
+          "about": "I spent 4.5 years at Airbnb where he worked as a Product Lead on the Growth team, a team he helped start in 2012. Prior to Airbnb, Gustaf was Head of Growth at Voxer, and before that, he was CEO & co-founder of Heysan, which was part of the YC Winter 2007 batch."
+        },
+        {
+          "name": "Pär Lindhe",
+          "linkedIn": "https://www.linkedin.com/in/parlindhe",
+          "about": "Co-founded Heysan - A mobile cross-protocol chat app and community - Eventually aquired\nLater created Candid - a SaaS for recruiters to communicate with the employer during headhunting projects. Active with paying high retention customers.\n2024: Creating: New twist on live event streaming from multiple angles"
+        },
+        {
+          "name": "Marie Brattberg",
+          "linkedIn": "https://www.linkedin.com/in/mariebrattberg/",
+          "about": ""
+        },
+        {
+          "name": "Michael Ossareh",
+          "linkedIn": "https://www.linkedin.com/in/ossareh/",
+          "about": ""
+        }
+      ],
+      "foundedYear": "2007",
+      "teamSize": "0",
+      "location": "San Francisco",
+      "description": "Heysan was a free mobile messaging and community based in San Francisco, California.\r\n\r\nInitially Heysan provided free messaging between phones and computers, bridging IM with SMS. The service expanded into launching a mobile community and has over 1 million users doing tens of million of monthly messages. In the summer of 2007 Heysan raised a seed round from Khosla Ventures and Atomico, the venture funds of Vinod Khosla and Niklas Zennstrom.\r\n\r\nHeysan was acquired by Good Technology in May 2009.I spent 4.5 years at Airbnb where he worked as a Product Lead on the Growth team, a team he helped start in 2012. Prior to Airbnb, Gustaf was Head of Growth at Voxer, and before that, he was CEO & co-founder of Heysan, which was part of the YC Winter 2007 batch.Co-founded Heysan - A mobile cross-protocol chat app and community - Eventually aquired\nLater created Candid - a SaaS for recruiters to communicate with the employer during headhunting projects. Active with paying high retention customers.\n2024: Creating: New twist on live event streaming from multiple angles",
+      "latestNews": [],
+      "imageURL": "https://bookface-images.s3.amazonaws.com/small_logos/bf698725d330ade4e0d1868371aa09cdbc9aa0c6.png",
+      "posts": { "lauchLink": "https://www.ycombinator.com/companiesundefined" }
+    },
+    {
+      "name": "Happyrobot",
+      "url": "https://www.ycombinator.com/companies/happyrobot",
+      "founders": [
+        {
+          "name": "Pablo Palafox",
+          "linkedIn": "https://linkedin.com/in/pablorpalafox",
+          "about": "Cofounder of Happyrobot (S23). Previously PhD Candidate @ TU Munich working on Computer Vision (https://pablopalafox.github.io/), research intern at Reality Labs (Meta)."
+        },
+        {
+          "name": "Luis Paarup",
+          "linkedIn": "https://linkedin.com/in/luispaarup",
+          "about": "Co-founder of Happyrobot (happyrobot.ai), working on AI agents that speak on the phone."
+        },
+        {
+          "name": "Javier Palafox",
+          "linkedIn": "https://linkedin.com/in/javierpalafox",
+          "about": "Javi is the co-founder and COO of Happyrobot. Previously, he served as CFO for a $300M CPG brand."
+        }
+      ],
+      "foundedYear": "2022",
+      "teamSize": "3",
+      "location": "",
+      "description": "Happyrobot's voice AI agents automate inbound and outbound phone calls in the logistics industry.\r\n\r\nFreight brokers, 3PLs, carriers and other enterprises connect their information systems to our AI agents to handle check calls, load updates, payment status, appointment scheduling or even sales negotiations.Cofounder of Happyrobot (S23). Previously PhD Candidate @ TU Munich working on Computer Vision (https://pablopalafox.github.io/), research intern at Reality Labs (Meta).\n\nCo-founder of Happyrobot (happyrobot.ai), working on AI agents that speak on the phone.Javi is the co-founder and COO of Happyrobot. Previously, he served as CFO for a $300M CPG brand.",
+      "jobs": [
+        {
+          "role": "Founding Engineer - Backend",
+          "link": "https://www.ycombinator.com/companies/companies/happyrobot/jobs/kOMgJ67-founding-engineer-backend",
+          "locations": ["San Francisco", " CA", " US"]
+        }
+      ],
+      "latestNews": [
+        {
+          "title": "Happyrobot, el proyecto español seleccionado por Y Combinator: así lo han conseguido | Business Insider España",
+          "link": "https://www.businessinsider.es/happyrobot-proyecto-espanol-seleccionado-combinator-han-conseguido-1281228",
+          "date": "Aug 01, 2023"
+        }
+      ],
+      "imageURL": "https://bookface-images.s3.amazonaws.com/small_logos/e6bc9a898b365c0f976d54b44c58d8a05ebfd7af.png",
+      "posts": { "lauchLink": "https://www.ycombinator.com/companiesundefined" }
+    },
+    {
+      "name": "Khoj",
+      "url": "https://www.ycombinator.com/companies/khoj",
+      "founders": [
+        {
+          "name": "Debanjum Singh Solanky",
+          "linkedIn": "https://linkedin.com/in/debanjum",
+          "about": "Previously worked on personal AIs at Cortana (aka Viva Insights) and scaled it from 0 to 20M daily active users at Microsoft. Building open-source tools & communities since a decade."
+        },
+        {
+          "name": "Saba Imran",
+          "linkedIn": "https://linkedin.com/in/sabaimran",
+          "about": "Helping people get answers to their questions."
+        }
+      ],
+      "foundedYear": "2023",
+      "teamSize": "2",
+      "location": "San Francisco",
+      "description": "Khoj is an open-source, personal AI application that helps you get answers to your questions, whether they be in your own notes or online. You can use it to get answers that are grounded in reality, references included. Rather than spending an hour researching collating information from different sources, have Khoj do it for you, easily and quickly. Khoj can also generate images and understand your voice via TTS, so you can work hands-free.\r\n\r\nWith our specialized agents, you can get deeper assistance on topics related to Health, Tutoring, Therapy, or something else altogether. \r\n\r\nBecause we're open-source, you can always choose to self-host Khoj on your own machine for more privacy.\r\n\r\nWe've previously built products for Cortana AI at Microsoft and scaled them from 0 to 20M daily active users.Previously worked on personal AIs at Cortana (aka Viva Insights) and scaled it from 0 to 20M daily active users at Microsoft. Building open-source tools & communities since a decade. Helping people get answers to their questions.",
+      "latestNews": [
+        {
+          "title": "Show HN: Khoj - Chat Offline with your Second Brain using Llama 2 | Hacker News",
+          "link": "https://news.ycombinator.com/item?id=36933452",
+          "date": "Jul 30, 2023"
+        }
+      ],
+      "imageURL": "https://bookface-images.s3.amazonaws.com/small_logos/bd6227d42ac8c50f126c05afb2c2cf0bc82af194.png",
+      "posts": {
+        "lauchLink": "https://www.ycombinator.com/companies/launches/JG4-khoj-your-superhuman-companion",
+        "postsList": [
+          {
+            "details": [
+              "Hi folks! We’re Saba and Debanjum from Khoj and we’re working hard to make personal AI accessible to everyone, including your mum and grandad 😇",
+              "",
+              "Khoj is an open-source, personal AI application that helps you extend your digital brain. It's built by a team that scaled personal AI assistance for enterprises to 10s of millions of daily active users at Microsoft. You can try Khoj on WhatsApp at +1 (848)-800-4242"
+            ],
+            "imageLinks": [
+              "https://www.ycombinator.com/companies/media/?type=post&id=74032&key=user_uploads/1201614/8190dfd3-b9b1-4314-99ec-b6ce76241019"
+            ],
+            "title": "Summary",
+            "links": ["https://wa.me/18488004242"]
+          },
+          {
+            "title": "The Problem",
+            "details": [
+              "Computing capabilities have advanced at a staggering rate over the last few decades, but our individual capabilities have stagnated. Petabytes of data have been digitized, and yet our tools to engage with them hover somewhere around fuzzy search.",
+              "While we were building more advanced tools for enterprise assistance, we realized that there weren’t good equivalents to helping individuals across work and life.",
+              "I've to make sense of what is covered by my health insurance plan in some outdated PDF, track down stray notes I made during my 100th daily standup meeting, or look for that one email I sent back in 2018 to Carl. The current set of tools for this just doesn’t cut it.",
+              "All the while, the surface area occupied by our digital interactions is making us less happy and more distracted.",
+              ""
+            ],
+            "imageLinks": [
+              "https://www.ycombinator.com/companies/media/?type=post&id=74032&key=user_uploads/1201614/e3d51fab-e8ef-4db1-b3ac-0fddecc6e899"
+            ]
+          },
+          {
+            "title": "The Solution",
+            "details": [
+              "With Khoj, we're creating your open-source, superhuman companion to tackle these challenges.",
+              "Right now, you can use Khoj’s desktop app to search and chat with your existing notes and docs (see below!). Instead of awkwardly keyword searching, you can have a natural conversation with your knowledge base. Hundreds of technical, advanced knowledge workers are already using this. It supports fully offline chat and search. See the docs.",
+              "But technical capability shouldn’t limit access to great digital assistance. That's why we're rolling out the ability to access Khoj over WhatsApp as well.",
+              "We’re building your companion with two key principles in mind:",
+              ""
+            ],
+            "links": [
+              "https://docs.khoj.dev/#/setup",
+              "https://khoj.dev/whatsapp"
+            ],
+            "imageLinks": [
+              "https://www.ycombinator.com/companieshttps://khoj-web-bucket.s3.amazonaws.com/chatdemo.gif"
+            ]
+          },
+          {
+            "title": "The Team",
+            "details": [
+              "Debanjum and Saba met while building and scaling enterprise personal AI assistance at Microsoft. They became fast friends while bonding over hiking in the PNW and hacking on fun side projects together.",
+              "Saba has studied CS @ UIUC, built resilient data pipelines for high-frequency trading at Two Sigma, and developed the ML infrastructure at a YC biotech startup.",
+              "Debanjum is a published researcher with a double Masters in Math and CS at BITS and Dartmouth respectively. He helped create Hillhacks, an Indian hacker conference that's been running self-sustained for 9+ years."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "Raz",
+      "url": "https://www.ycombinator.com/companies/raz",
+      "founders": [
+        {
+          "name": "Rob Haber",
+          "linkedIn": "https://linkedin.com/in/rob-haber",
+          "about": "Co-founder and CEO of Raz. Former ML Engineer at Scale AI, and before that worked at Amazon, Regeneron and his own beef jerky company."
+        },
+        {
+          "name": "Alex Luis",
+          "linkedIn": "https://linkedin.com/in/alex-luis",
+          "about": "Alex, a former sumo wrestler born in Tokyo, was a consultant on PwC's Customer Service and Advocacy team. There, he worked with emerging technologies like 5G, NFTs, and IoT. He's now a Co-founder @ Raz and lives in NYC."
+        }
+      ],
+      "foundedYear": "2023",
+      "teamSize": "2",
+      "location": "New York",
+      "description": "Raz provides businesses with LLM agents they can use to automate conversations and build relationships with their customers. Our agents can be used to qualify and nurture leads and collect feedback, primarily over SMS. The company is founded by Rob Haber, former ML Engineer at Scale AI, and Alex Luis, former PM at PwC.Co-founder and CEO of Raz. Former ML Engineer at Scale AI, and before that worked at Amazon, Regeneron and his own beef jerky company.Alex, a former sumo wrestler born in Tokyo, was a consultant on PwC's Customer Service and Advocacy team. There, he worked with emerging technologies like 5G, NFTs, and IoT. He's now a Co-founder @ Raz and lives in NYC.",
+      "latestNews": [],
+      "imageURL": "https://bookface-images.s3.amazonaws.com/small_logos/ba94c4c35033c50e2493aff22aaa72165ac7350a.png",
+      "posts": {
+        "lauchLink": "https://www.ycombinator.com/companies/launches/JFY-raz-next-generation-ai-forms"
+      }
+    },
+    {
+      "name": "ClassDojo",
+      "url": "https://www.ycombinator.com/companies/classdojo",
+      "founders": [
+        {
+          "name": "Sam Chaudhary",
+          "linkedIn": "https://www.linkedin.com/in/samchaudhary/"
+        },
+        {
+          "name": "Liam Don",
+          "linkedIn": "https://www.linkedin.com/in/liamdon/"
+        }
+      ],
+      "foundedYear": "2011",
+      "teamSize": "100",
+      "location": "San Francisco",
+      "description": "ClassDojo's mission is to give every kid an education they love. Our flagship communication app has become the world’s largest network serving kids, reaching over 51 million kids, families and teachers in 180 countries every month, entirely through word of mouth. They use it to share the best moments in a kid's day through pictures, videos, messages, and more. ClassDojo has recognized by Forbes, LinkedIn, Inc and Fast Company, and it is a top 100 Y Combinator company.",
+      "jobs": [
+        {
+          "role": "0→1 Product Leader",
+          "link": "https://www.ycombinator.com/companies/companies/classdojo/jobs/wWpcXVomB-0-1-product-leader",
+          "locations": ["San Francisco"]
+        },
+        {
+          "role": "Sr. Fullstack Engineer",
+          "link": "https://www.ycombinator.com/companies/companies/classdojo/jobs/QTFojiD-sr-fullstack-engineer",
+          "locations": ["San Francisco", " CA", " US"]
+        }
+      ],
+      "latestNews": [
+        {
+          "title": "ClassDojo Won Over Classrooms. Now It’s On A $125 Million Mission To Bring Kids To The Metaverse",
+          "link": "https://www.forbes.com/sites/alexkonrad/2022/07/21/classdojo-tencent-backed-unicorn-launches-education-virtual-world/?sh=523b7d7713ad",
+          "date": "Jul 21, 2022"
+        }
+      ],
+      "imageURL": "https://bookface-images.s3.amazonaws.com/small_logos/5880942a2efc61218c66b07f0f2704038b3001e8.png",
+      "posts": { "lauchLink": "https://www.ycombinator.com/companiesundefined" }
+    },
+    {
+      "name": "Sown To Grow",
+      "url": "https://www.ycombinator.com/companies/sown-to-grow",
+      "founders": [
+        {
+          "name": "Rupa Gupta",
+          "linkedIn": "https://www.linkedin.com/pub/rupa-chandra-gupta/39/890/60b"
+        },
+        {
+          "name": "Dennis Li",
+          "linkedIn": "https://www.linkedin.com/in/dennisli/"
+        }
+      ],
+      "foundedYear": "2015",
+      "teamSize": "16",
+      "location": "Oakland, CA",
+      "description": "",
+      "latestNews": [
+        {
+          "title": "\"Sown To Grow\" emoji and message program helps Newton students open up - CBS Boston",
+          "link": "https://www.cbsnews.com/boston/news/sown-to-grow-emoji-message-program-newton-massachusetts-schools/",
+          "date": "Oct 25, 2023"
+        }
+      ],
+      "imageURL": "https://bookface-images.s3.amazonaws.com/small_logos/c0dd9085a26df5e1722455bd2c545130385e0ac1.png",
+      "posts": { "lauchLink": "https://www.ycombinator.com/companiesundefined" }
+    },
+    {
+      "name": "MagicBell",
+      "url": "https://www.ycombinator.com/companies/magicbell",
+      "founders": [
+        {
+          "name": "Hana Mohan",
+          "linkedIn": "https://www.linkedin.com/in/unamashana/",
+          "about": "Co-founder MagicBell, and a proud transgender woman. I code, bike, and read obsessively. Passionate about empowering women and other minorities. Previously, CEO @ SupportBee."
+        },
+        {
+          "name": "Josue Montano",
+          "linkedIn": "https://www.linkedin.com/in/josuemontanoa/",
+          "about": "Co-founder of MagicBell, and ex-frontend lead at SupportBee.com. I love writing software that a lot of people enjoy using. I am interested in Math, Physics, 3D animation and music."
+        }
+      ],
+      "foundedYear": "2020",
+      "teamSize": "4",
+      "location": "Barcelona, Spain",
+      "description": "MagicBell is the notification inbox for web & mobile apps.\r\n\r\nAs consumers of many apps, we have personally experienced the growing volume of notifications - many of which add to our anxiety instead of helping us manage it. MagicBell is on a mission to end this chaos and help every app deliver a stellar notification experience.\r\n\r\nWe do this by offering a beautifully designed notification inbox that apps can embed in their products in minutes. We do all the heavy lifting related to real-time delivery & syncing, web & mobile push notifications, email notifications, and even notification preference management.\r\n\r\nWe sit at an interesting intersection of a dev tool & a productivity tool for end-users. We are helping every app make its users more productive!Co-founder MagicBell, and a proud transgender woman. I code, bike, and read obsessively. Passionate about empowering women and other minorities. Previously, CEO @ SupportBee. Co-founder of MagicBell, and ex-frontend lead at SupportBee.com. I love writing software that a lot of people enjoy using. I am interested in Math, Physics, 3D animation and music.",
+      "latestNews": [],
+      "imageURL": "https://bookface-images.s3.amazonaws.com/small_logos/a9dc3cf4111497ede32cf6559a6fb868bb609626.png",
+      "posts": {
+        "lauchLink": "https://www.ycombinator.com/companies/launches/Iqb-webpushtest-com-ios-safari-web-push-notifications-demo-code"
+      }
+    },
+    {
+      "name": "Tempo",
+      "url": "https://www.ycombinator.com/companies/tempo",
+      "founders": [
+        {
+          "name": "Moawia Eldeeb",
+          "linkedIn": "https://www.linkedin.com/in/moawiaeldeeb"
+        },
+        {
+          "name": "Joshua Augustin",
+          "linkedIn": "https://www.linkedin.com/in/joshua-augustin-56ba268a"
+        }
+      ],
+      "foundedYear": "2014",
+      "teamSize": "158",
+      "location": "San Francisco",
+      "description": "SmartSpot is a post Series-A stealth startup backed by Founders Fund and Khosla Ventures that uses computer vision to deliver an unparalleled fitness training experience to your home. Our unique hardware solution gives amazing trainers the ability to see their class participants in real time and deliver detailed advice that was previously only possible in person.",
+      "jobs": [
+        {
+          "role": "Sr Computer Vision Engineer",
+          "link": "https://www.ycombinator.com/companies/companies/tempo/jobs/FR3MyA3YL-sr-computer-vision-engineer",
+          "locations": ["San Francisco", " CA"]
+        },
+        {
+          "role": "Machine Learning Engineer",
+          "link": "https://www.ycombinator.com/companies/companies/tempo/jobs/9yHUaZmrv-machine-learning-engineer",
+          "locations": ["San Francisco", " CA"]
+        },
+        {
+          "role": "Senior Front End Engineer",
+          "link": "https://www.ycombinator.com/companies/companies/tempo/jobs/Rudg0BkZ2-senior-front-end-engineer",
+          "locations": ["San Francisco", " CA"]
+        }
+      ],
+      "latestNews": [
+        {
+          "title": "Tempo launches a $395 home fitness system the size of a minifridge – TechCrunch",
+          "link": "https://techcrunch.com/2021/11/02/tempo-launches-a-400-home-fitness-system-the-size-of-a-minifridge/",
+          "date": "Nov 02, 2021"
+        }
+      ],
+      "imageURL": "https://bookface-images.s3.amazonaws.com/small_logos/8d7bb4096474a73857a04dd3a797223c11e906d3.png",
+      "posts": { "lauchLink": "https://www.ycombinator.com/companiesundefined" }
+    },
+    {
+      "name": "Zepto",
+      "url": "https://www.ycombinator.com/companies/zepto",
+      "founders": [
+        {
+          "name": "Aadit Palicha",
+          "linkedIn": "https://www.linkedin.com/in/aadit-palicha/"
+        },
+        {
+          "name": "Kaivalya Vohra",
+          "linkedIn": "https://www.linkedin.com/in/kaivalya-vohra/"
+        }
+      ],
+      "foundedYear": "2020",
+      "teamSize": "1300",
+      "location": "Mumbai, India",
+      "description": "We deliver groceries in 10 minutes through a network of optimized micro-warehouses or 'dark stores' that we build across cities in India.\r\n\r\nWe're currently doing hundreds of millions of dollars in annual sales with best-in-class unit economics - come join us!",
+      "latestNews": [
+        {
+          "title": "Zepto becomes India's first 2023 unicorn with $200 million fresh funding | TechCrunch",
+          "link": "https://techcrunch.com/2023/08/25/zepto-becomes-india-first-2023-unicorn-with-200-million-fresh-funding/",
+          "date": "Aug 25, 2023"
+        }
+      ],
+      "imageURL": "https://bookface-images.s3.amazonaws.com/small_logos/b419835c59c3d3a4db7e0aaf094b54bb5cee0adb.png",
+      "posts": { "lauchLink": "https://www.ycombinator.com/companiesundefined" }
+    },
+    {
+      "name": "Cadence",
+      "url": "https://www.ycombinator.com/companies/internet-friends",
+      "founders": [
+        {
+          "name": "Neo Cho",
+          "linkedIn": "https://www.linkedin.com/in/neocho/"
+        },
+        {
+          "name": "Alex Reyes",
+          "linkedIn": "https://www.linkedin.com/in/alexreyes-tech/"
+        }
+      ],
+      "foundedYear": "2022",
+      "teamSize": "2",
+      "location": "New York",
+      "description": "We're working on an AI powered running coach to help people achieve their fitness goals.",
+      "latestNews": [],
+      "imageURL": "https://bookface-images.s3.amazonaws.com/small_logos/0c06e2001035e97cec3c793f77bda2b7671f50c1.png",
+      "posts": {
+        "lauchLink": "https://www.ycombinator.com/companies/launches/Jcj-cadence-your-ai-powered-running-coach"
+      }
+    }
+  ]
+}
